@@ -17,12 +17,6 @@ This repository tracks:
 
 - Font source files (`.sfd`) for version-control-friendly change history
 - Ready-to-use font binaries (`.otf`) for direct use in other projects
-- Documentation (`README.md`) describing the rationale and modifications
-
-Suggested layout:
-
-- `src/` - FontForge source files (for example, `Shobhika-Dravida.sfd`)
-- `dist/` - Generated binaries (for example, `Shobhika-Dravida.otf`)
 
 ## Implemented Font Changes
 
@@ -41,12 +35,9 @@ The current Shobhika Dravida implementation includes the following modifications
 
 ## Versioning Workflow
 
-1. Edit source in `src/*.sfd` (FontForge source of truth).
-2. Generate updated `dist/*.otf`.
+1. Edit source in `.sfd`.
+2. Generate updated `.otf`.
 3. Commit both source and binary together.
-4. Tag release versions (for example, `v1.0.0`, `v1.1.0`) for stable snapshots.
-
-This keeps readable source history while preserving plug-and-play binary availability.
 
 ## Credits and Attribution
 
