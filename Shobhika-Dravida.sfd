@@ -428,9 +428,6 @@ ChainSub2: coverage "'psts' Post Base Substitutions lookup 154 contextual 48" 0 
   BCoverage: 642 Da.dv Zha.dv KaSsa.dv DaRa.dv KaDa.dv KaKaSsa.dv KaShaLa.dv KaSsaNna.dv KaSsaMa.dv KaSsaYa.dv KaSsaRa.dv KaSsaLa.dv KaSsaVa.dv KaSsaNnaYa.dv KaSsaMaYa.dv KhaNa.dv GaDa.dv GaDaDha.dv GaDaRa.dv GaDaVa.dv GaDaVaYa.dv CaNya.dv JaDa.dv NyaDa.dv NyaDaVa.dv NyaShaLa.dv NnaDa.dv NnaHaMa.dv NnaHaYa.dv TaDa.dv TaKaSsa.dv TaKhaNa.dv TaKaSsaMa.dv TaKaSsaVa.dv TaTaKaSsa.dv DaGa.dv DaGha.dv DaDha.dv DaNa.dv DaBa.dv DaBha.dv DaVa.dv DaGaYa.dv DaDhaYa.dv DaBhaYa.dv DaVaYa.dv DhaDa.dv NaDa.dv NaKaSsa.dv NaDaRa.dv NaDaVa.dv NaDaRaYa.dv NaDaVaYa.dv PaKaSsa.dv BaDa.dv BhaDa.dv MaDa.dv MaDaVa.dv LaDa.dv VaDa.dv ShaLa.dv SsaKaSsa.dv SaDa.dv SaKaSsa.dv
 
 
-
-
-
  0
 EndFPST
 ChainSub2: coverage "'psts' Post Base Substitutions lookup 154 contextual 47" 0 0 0 1
@@ -440,8 +437,6 @@ ChainSub2: coverage "'psts' Post Base Substitutions lookup 154 contextual 47" 0 
   BCoverage: 817 Rra.dv KhaNukta.dv JaNukta.dv KhaRa.dv JaRa.dv DhaRa.dv BhaRa.dv KaSha.dv KaKaSha.dv KaShaMa.dv KaShaVa.dv KaShaSha.dv GaDhaRa.dv GaBhaYa.dv GaBhaRa.dv CaNa.dv CaNyaYa.dv JaNa.dv JaJhaYa.dv JaBhaYa.dv JaBhaRa.dv JhaNa.dv JhaYa.dv JhaRaYa.dv NyaNa.dv NyaRa.dv NyaJaNya.dv NyaBhaYa.dv NyaShaVa.dv TaKhaRa.dv DaDhaMa.dv DaYaRa.dv DaRaYa.dv DhaNa.dv DhaNaYa.dv DhaNaVa.dv NaNaBha.dv NaBhaYa.dv NaBhaRa.dv PaShaYa.dv BaDhaRa.dv BaBhaYa.dv BaBhaRa.dv BhaNna.dv BhaYa.dv BhaNaVa.dv BhaTaYa.dv BhaRaYa.dv BhaVaYa.dv MaBhaYa.dv MaBhaRa.dv LaBhaYa.dv VaBhaYa.dv ShaCa.dv ShaYa.dv ShaVa.dv ShaCaPha.dv ShaCaYa.dv SaThaNaYa.dv KaNuktaSha.dv ardhaKhaNukta.dv KhaNuktaTa.dv KhaNuktaMa.dv KhaNuktaYa.dv KhaNuktaVa.dv KhaNuktaSha.dv KhaNuktaSa.dv GaNuktaJaNukta.dv JaJaNukta.dv JaNuktaBa.dv JaNuktaMa.dv JaNuktaYa.dv JaNuktaRa.dv
 
 
-
-
  0
 EndFPST
 ChainSub2: coverage "'psts' Post Base Substitutions lookup 154 contextual 46" 0 0 0 1
@@ -449,8 +444,6 @@ ChainSub2: coverage "'psts' Post Base Substitutions lookup 154 contextual 46" 0 
   Coverage: 14 ardhaNyubja.dv
   BCoverage: 1327 matraA.dv matraIi00.dv matraAChandra.dv matraHrasvaO.dv matraO.dv matraAu.dv matraHrasvaAu.dv matraABindu.dv matraAChandrabindu.dv matraAReph.dv matraARephBindu.dv matraARephChandrabindu.dv matraOBindu.dv matraOChandrabindu.dv matraOReph.dv matraORephBindu.dv matraORephChandrabindu.dv matraAuBindu.dv matraAuChandrabindu.dv matraAuReph.dv matraAuRephBindu.dv matraAuRephChandrabindu.dv matraHrasvaOBindu.dv matraHrasvaOChandrabindu.dv matraHrasvaOReph.dv matraHrasvaORephBindu.dv matraHrasvaORephChandrabindu.dv matraHrasvaAuBindu.dv matraHrasvaAuChandrabindu.dv matraHrasvaAuReph.dv matraHrasvaAuRephBindu.dv mHrasvaAuRephChandrabindu.dv matraIi01.dv matraIi02.dv matraIi03.dv matraIi04.dv matraIi05.dv matraIi01Bindu.dv matraIi02Bindu.dv matraIi03Bindu.dv matraIi05Bindu.dv matraIi01Chandrabindu.dv matraIi02Chandrabindu.dv matraIi03Chandrabindu.dv matraIi05Chandrabindu.dv matraIi01Reph.dv matraIi02Reph.dv matraIi03Reph.dv matraIi04Reph.dv matraIi05Reph.dv matraIi01RephBindu.dv matraIi02RephBindu.dv matraIi03RephBindu.dv matraIi04RephBindu.dv matraIi05RephBindu.dv matraIi01RephChandrabindu.dv matraIi02RephChandrabindu.dv matraIi03RephChandrabindu.dv matraIi04RephChandrabindu.dv matraIi05RephChandrabindu.dv matraIi00Bindu.dv matraIi00Chandrabindu.dv matraIi00Reph.dv matraIi00RephBindu.dv matraIi00RephChandrabindu.dv
   BCoverage: 7250 Ka.dv Kha.dv Ga.dv Gha.dv Nga.dv Ca.dv Ja.dv Nya.dv Dda.dv Nna.dv Ta.dv Tha.dv Dha.dv Na.dv Nnna.dv Pa.dv Pha.dv Ba.dv Bha.dv Ma.dv Ya.dv Ra.dv La.dv Va.dv Sha.dv Ssa.dv Sa.dv KaNukta.dv GaNukta.dv PhaNukta.dv YaNukta.dv heavyYa.dv JaNya.dv KaRa.dv GaRa.dv GhaRa.dv CaRa.dv TaRa.dv ThaRa.dv NaRa.dv PaRa.dv PhaRa.dv BaRa.dv MaRa.dv VaRa.dv ShaRa.dv SaRa.dv altYa.dv KaKa.dv KaKha.dv KaNga.dv KaCa.dv KaCha.dv KaJa.dv KaTta.dv KaTtha.dv KaNna.dv KaTa.dv KaTha.dv KaNa.dv KaPa.dv KaPha.dv KaBa.dv KaBha.dv KaMa.dv KaYa.dv KaVa.dv KaSa.dv KaKaNna.dv KaKaYa.dv KaKaRa.dv KaKhaYa.dv KaCaCha.dv KaTaCa.dv KaTaYa.dv KaTaRa.dv KaTaVa.dv KaThaNa.dv KaThaYa.dv KaThaVa.dv KaNaYa.dv KaPaRa.dv KaMaYa.dv KaRaYa.dv KaLaYa.dv KaVaYa.dv KaShaRa.dv KaSaTta.dv KaSaDda.dv KaSaTa.dv KaSaTha.dv KaSaNa.dv KaSaPa.dv KaSaPha.dv KaSaMa.dv KaSaYa.dv KaSaRa.dv KaSaVa.dv KaTaRaYa.dv KaTaVaYa.dv KaSaTaRa.dv KaSaPaRa.dv KhaKha.dv KhaTa.dv KhaMa.dv KhaYa.dv KhaLa.dv KhaVa.dv KhaSha.dv KhaSa.dv KhaKhaYa.dv KhaNaYa.dv KhaRaYa.dv GaGa.dv GaGha.dv GaJa.dv GaDda.dv GaNna.dv GaDha.dv GaNa.dv GaBa.dv GaBha.dv GaMa.dv GaYa.dv GaLa.dv GaVa.dv GaSa.dv GaGaRa.dv GaGhaYa.dv GaGhaRa.dv GaJaNya.dv GaJaYa.dv GaJaVa.dv GaDaYa.dv GaDhaYa.dv GaDhaVa.dv GaNaYa.dv GaBaRa.dv GaMaYa.dv GaRaYa.dv GaRaVa.dv GaVaYa.dv GaVaRa.dv GaDhaRaYa.dv GhaGha.dv GhaMa.dv GhaYa.dv GhaLa.dv GhaVa.dv GhaGhaYa.dv GhaNaYa.dv GhaRaYa.dv GhaVaYa.dv NgaYa.dv CaKa.dv CaKha.dv CaCa.dv CaTa.dv CaPa.dv CaPha.dv CaMa.dv CaYa.dv CaLa.dv CaVa.dv CaSsa.dv CaSa.dv CaCaYa.dv CaKaTa.dv CaChaYa.dv CaPaRa.dv CaRaYa.dv CaVaYa.dv CaSaVa.dv CaTaRaYa.dv ChaYa.dv JaKa.dv JaDda.dv JaPa.dv JaBa.dv JaMa.dv JaYa.dv JaLa.dv JaVa.dv JaJaYa.dv JaJaVa.dv JaJaNya.dv JaNyaYa.dv JaNyaRa.dv JaNyaVa.dv JaMaYa.dv JaRaYa.dv JaVaYa.dv NyaKa.dv NyaKha.dv NyaNna.dv NyaPa.dv NyaBha.dv NyaMa.dv NyaYa.dv NyaLa.dv NyaVa.dv NyaSha.dv NyaSa.dv NyaKaVa.dv NyaKaTa.dv NyaGaRa.dv NyaCaMa.dv NyaCaYa.dv NyaCaVa.dv NyaChaYa.dv NyaJaMa.dv NyaJaYa.dv NyaJaVa.dv NyaNyaYa.dv NyaSaNa.dv NyaShaMa.dv NyaShaYa.dv NyaShaRa.dv TtaYa.dv TthaYa.dv TthaTthaYa.dv DdaYa.dv DdaDdaYa.dv DdaDdhaYa.dv DdhaYa.dv DdhaDdhaYa.dv DdhaRaYa.dv NnaKa.dv NnaCa.dv NnaDda.dv NnaNna.dv NnaTa.dv NnaTha.dv NnaNa.dv NnaBha.dv NnaMa.dv NnaYa.dv NnaRa.dv NnaLa.dv NnaVa.dv NnaSa.dv NnaJaYa.dv NnaTtaYa.dv NnaTthaYa.dv NnaDdaYa.dv NnaDdhaYa.dv NnaNnaYa.dv NnaThaYa.dv NnaVaYa.dv NnaSaMa.dv TaKa.dv TaKha.dv TaGa.dv TaGha.dv TaNga.dv TaCa.dv TaCha.dv TaJa.dv TaNya.dv TaTta.dv TaTtha.dv TaDda.dv TaDdha.dv TaNna.dv TaTa.dv TaTha.dv TaDha.dv TaNa.dv TaPa.dv TaPha.dv TaBa.dv TaBha.dv TaMa.dv TaYa.dv TaLa.dv TaVa.dv TaSha.dv TaSsa.dv TaSa.dv TaKaMa.dv TaKaYa.dv TaKaRa.dv TaKaVa.dv TaKaSa.dv TaKhaYa.dv TaTaKa.dv TaTaNa.dv TaTaMa.dv TaTaYa.dv TaRaYa.dv TaTaVa.dv TaTaRa.dv TaTaSa.dv TaThaYa.dv TaNaYa.dv TaNaVa.dv TaPaPha.dv TaPaRa.dv TaPhaRa.dv TaMaYa.dv TaYaVa.dv TaRaVa.dv TaVaYa.dv TaSsaTtha.dv TaSaKa.dv TaSaKha.dv TaSaTa.dv TaSaTha.dv TaSaNa.dv TaSaPa.dv TaSaPha.dv TaSaMa.dv TaSaYa.dv TaSaRa.dv TaSaVa.dv TaTaSaYa.dv TaSaNaYa.dv TaSaMaYa.dv TaSaTaRa.dv TaSaThaYa.dv TaSaPaRa.dv TaSaPhaYa.dv ThaTha.dv ThaNa.dv ThaMa.dv ThaYa.dv ThaLa.dv ThaVa.dv ThaThaYa.dv ThaNaYa.dv ThaRaYa.dv ThaVaYa.dv DaMa.dv DaYa.dv DhaDha.dv DhaMa.dv DhaYa.dv DhaLa.dv DhaVa.dv DhaDhaYa.dv DhaRaYa.dv DhaVaYa.dv DhaVaRa.dv NaKa.dv NaKha.dv NaGa.dv NaGha.dv NaNga.dv NaCa.dv NaJa.dv NaDda.dv NaTa.dv NaTha.dv NaDha.dv NaNa.dv NaPa.dv NaPha.dv NaBa.dv NaBha.dv NaMa.dv NaYa.dv NaLa.dv NaVa.dv NaSha.dv NaSsa.dv NaSa.dv NaKaTa.dv NaKaRa.dv NaKaVa.dv NaKaSa.dv NaKhaYa.dv NaGaRa.dv NaGaLa.dv NaGhaRa.dv NaGhaYa.dv NaJaYa.dv NaJaVa.dv NaNnaVa.dv NaTaTa.dv NaTaTha.dv NaTaMa.dv NaTaYa.dv NaTaRa.dv NaTaVa.dv NaTaSa.dv NaThaYa.dv NaThaRa.dv NaThaVa.dv NaDaMa.dv NaDaYa.dv NaDhaMa.dv NaDhaYa.dv NaDhaRa.dv NaDhaVa.dv NaNaPa.dv NaNaYa.dv NaNaVa.dv NaPaRa.dv NaPaSa.dv NaPhaRa.dv NaBaRa.dv NaBhaVa.dv NaMaYa.dv NaMaRa.dv NaYaVa.dv NaRaYa.dv NaVaYa.dv NaVaRa.dv NaSsaTtha.dv NaSaKa.dv NaSaKha.dv NaSaTta.dv NaSaTa.dv NaSaTha.dv NaSaNa.dv NaSaPa.dv NaSaPha.dv NaSaMa.dv NaSaYa.dv NaSaRa.dv NaSaVa.dv NaTaTaVa.dv NaTaRaYa.dv NaTaVaYa.dv NaTaSaTa.dv NaTaSaTha.dv NaTaSaNa.dv NaTaSaPa.dv NaTaSaRa.dv NaTaSaYa.dv NaTaSaVa.dv NaDhaRaYa.dv NaSaPhaYa.dv NaSaTaRa.dv PaKa.dv PaKha.dv PaCa.dv PaDda.dv PaNna.dv PaTa.dv PaTha.dv PaNa.dv PaPa.dv PaPha.dv PaBa.dv PaMa.dv PaYa.dv PaVa.dv PaSha.dv PaSsa.dv PaSa.dv PaNnaVa.dv PaTaYa.dv PaTaRa.dv PaTaVa.dv PaNaYa.dv PaPaYa.dv PaPaRa.dv PaRaYa.dv PaLaVa.dv PaVaYa.dv PaSaTha.dv PaSaNa.dv PaSaMa.dv PaSaYa.dv PaSaVa.dv PaTaRaYa.dv PaSaNaYa.dv PhaJa.dv PhaTta.dv PhaTtha.dv PhaNna.dv PhaTa.dv PhaNa.dv PhaPa.dv PhaPha.dv PhaMa.dv PhaYa.dv PhaLa.dv PhaVa.dv PhaSha.dv PhaPhaYa.dv PhaRaYa.dv BaKa.dv BaKha.dv BaGa.dv BaGha.dv BaJa.dv BaDda.dv BaTa.dv BaDha.dv BaNa.dv BaBa.dv BaBha.dv BaMa.dv BaYa.dv BaLa.dv BaVa.dv BaSha.dv BaSa.dv BaGaRa.dv BaJaYa.dv BaDaYa.dv BaDhaYa.dv BaDhaVa.dv BaBaYa.dv BaBaRa.dv BaRaYa.dv BaLaYa.dv BaVaYa.dv BhaNa.dv BhaBa.dv BhaBha.dv BhaMa.dv BhaLa.dv BhaVa.dv BhaBhaYa.dv BhaRaVa.dv MaKa.dv MaNna.dv MaTa.dv MaDha.dv MaNa.dv MaPa.dv MaPha.dv MaBa.dv MaBha.dv MaMa.dv MaYa.dv MaVa.dv MaSha.dv MaSa.dv MaDhaVa.dv MaNaYa.dv MaPaYa.dv MaPaSa.dv MaPhaYa.dv MaBaPa.dv MaBaYa.dv MaBaRa.dv MaBaLa.dv MaBaVa.dv MaBhaMa.dv MaBhaVa.dv MaMaYa.dv MaMaRa.dv MaRaYa.dv MaPaRa.dv MaVaYa.dv MaVaRa.dv MaVaLa.dv MaVaRaYa.dv MaPaSaYa.dv YaNa.dv YaPa.dv YaMa.dv YaYa.dv YaRa.dv YaLa.dv YaVa.dv LaKa.dv LaKha.dv LaGa.dv LaGha.dv LaNga.dv LaJa.dv LaTta.dv LaTtha.dv LaDda.dv LaDdha.dv LaTa.dv LaTha.dv LaDha.dv LaNa.dv LaPa.dv LaPha.dv LaBa.dv LaBha.dv LaMa.dv LaYa.dv LaVa.dv LaSha.dv LaSsa.dv LaSa.dv LaKaYa.dv LaGaYa.dv LaGaVa.dv LaNgaYa.dv LaPaTa.dv LaPaTha.dv LaPaYa.dv LaPaSa.dv LaBaYa.dv LaLaYa.dv LaVaDda.dv LaVaYa.dv LaGaVaYa.dv LaPaTaYa.dv LaPaTaVa.dv LaPaSaMa.dv LaPaSaYa.dv LaPaSaVa.dv LaVaDhaVa.dv VaJa.dv VaNna.dv VaDha.dv VaNa.dv VaBha.dv VaMa.dv VaYa.dv VaLa.dv VaVa.dv VaDaYa.dv VaDhaMa.dv VaDhaYa.dv VaDhaVa.dv VaNaYa.dv VaVaYa.dv VaRaYa.dv VaRaLa.dv VaDhaRaYa.dv ShaKa.dv ShaCha.dv ShaJa.dv ShaTta.dv ShaTa.dv ShaNa.dv ShaPa.dv ShaMa.dv ShaSha.dv ShaChaYa.dv ShaNaYa.dv ShaMaYa.dv ShaRaYa.dv ShaRaVa.dv ShaVaYa.dv SsaKa.dv SsaKha.dv SsaGa.dv SsaTta.dv SsaTtha.dv SsaNna.dv SsaTa.dv SsaNa.dv SsaPa.dv SsaPha.dv SsaBa.dv SsaMa.dv SsaYa.dv SsaRa.dv SsaLa.dv SsaVa.dv SsaSsa.dv SsaKaYa.dv SsaKaRa.dv SsaKaVa.dv SsaTtaYa.dv SsaTthaYa.dv SsaNnaYa.dv SsaNnaVa.dv SsaPaYa.dv SsaPaRa.dv SsaMaYa.dv SsaYaYa.dv SsaTtaRaYa.dv SsaTthaRaYa.dv SaKa.dv SaKha.dv SaGa.dv SaGha.dv SaNga.dv SaCa.dv SaCha.dv SaJa.dv SaNya.dv SaTta.dv SaTtha.dv SaDda.dv SaDdha.dv SaNna.dv SaTa.dv SaTha.dv SaDha.dv SaNa.dv SaPa.dv SaPha.dv SaBa.dv SaBha.dv SaMa.dv SaYa.dv SaLa.dv SaVa.dv SaSha.dv SaSsa.dv SaSa.dv SaKaYa.dv SaKaRa.dv SaTaTa.dv SaTaMa.dv SaTaYa.dv SaTaRa.dv SaTaVa.dv SaTaSa.dv SaThaNa.dv SaThaYa.dv SaDhaVa.dv SaNaYa.dv SaNaVa.dv SaPaMa.dv SaPaYa.dv SaPaRa.dv SaPhaYa.dv SaMaYa.dv SaMaRa.dv SaYaYa.dv SaRaYa.dv SaRaVa.dv SaVaYa.dv SaVaRa.dv SaVaVa.dv SaSaMa.dv SaSaYa.dv SaSaVa.dv SaTaTaYa.dv SaTaVaYa.dv SaTaRaYa.dv LlaDda.dv LlaNna.dv LlaYa.dv LlaLlaYa.dv ardhaKaNukta.dv KaKaNukta.dv KaNuktaTa.dv KaNuktaPha.dv KaNuktaBa.dv KaNuktaMa.dv KaNuktaLa.dv KaNuktaSa.dv ardhaGaNukta.dv PhaNuktaJa.dv PhaNuktaTta.dv PhaNuktaTa.dv LaPhaNukta.dv ShaKaNukta.dv SaPhaNukta.dv
-
-
 
  1
   SeqLookup: 0 "Single Substitution lookup 254"
@@ -558,9 +551,6 @@ ChainSub2: coverage "'psts' Post Base Substitutions lookup 154 contextual 33" 0 
   BCoverage: 642 Da.dv Zha.dv KaSsa.dv DaRa.dv KaDa.dv KaKaSsa.dv KaShaLa.dv KaSsaNna.dv KaSsaMa.dv KaSsaYa.dv KaSsaRa.dv KaSsaLa.dv KaSsaVa.dv KaSsaNnaYa.dv KaSsaMaYa.dv KhaNa.dv GaDa.dv GaDaDha.dv GaDaRa.dv GaDaVa.dv GaDaVaYa.dv CaNya.dv JaDa.dv NyaDa.dv NyaDaVa.dv NyaShaLa.dv NnaDa.dv NnaHaMa.dv NnaHaYa.dv TaDa.dv TaKaSsa.dv TaKhaNa.dv TaKaSsaMa.dv TaKaSsaVa.dv TaTaKaSsa.dv DaGa.dv DaGha.dv DaDha.dv DaNa.dv DaBa.dv DaBha.dv DaVa.dv DaGaYa.dv DaDhaYa.dv DaBhaYa.dv DaVaYa.dv DhaDa.dv NaDa.dv NaKaSsa.dv NaDaRa.dv NaDaVa.dv NaDaRaYa.dv NaDaVaYa.dv PaKaSsa.dv BaDa.dv BhaDa.dv MaDa.dv MaDaVa.dv LaDa.dv VaDa.dv ShaLa.dv SsaKaSsa.dv SaDa.dv SaKaSsa.dv
 
 
-
-
-
  0
 EndFPST
 ChainSub2: coverage "'psts' Post Base Substitutions lookup 154 contextual 32" 0 0 0 1
@@ -570,8 +560,6 @@ ChainSub2: coverage "'psts' Post Base Substitutions lookup 154 contextual 32" 0 
   BCoverage: 817 Rra.dv KhaNukta.dv JaNukta.dv KhaRa.dv JaRa.dv DhaRa.dv BhaRa.dv KaSha.dv KaKaSha.dv KaShaMa.dv KaShaVa.dv KaShaSha.dv GaDhaRa.dv GaBhaYa.dv GaBhaRa.dv CaNa.dv CaNyaYa.dv JaNa.dv JaJhaYa.dv JaBhaYa.dv JaBhaRa.dv JhaNa.dv JhaYa.dv JhaRaYa.dv NyaNa.dv NyaRa.dv NyaJaNya.dv NyaBhaYa.dv NyaShaVa.dv TaKhaRa.dv DaDhaMa.dv DaYaRa.dv DaRaYa.dv DhaNa.dv DhaNaYa.dv DhaNaVa.dv NaNaBha.dv NaBhaYa.dv NaBhaRa.dv PaShaYa.dv BaDhaRa.dv BaBhaYa.dv BaBhaRa.dv BhaNna.dv BhaYa.dv BhaNaVa.dv BhaTaYa.dv BhaRaYa.dv BhaVaYa.dv MaBhaYa.dv MaBhaRa.dv LaBhaYa.dv VaBhaYa.dv ShaCa.dv ShaYa.dv ShaVa.dv ShaCaPha.dv ShaCaYa.dv SaThaNaYa.dv KaNuktaSha.dv ardhaKhaNukta.dv KhaNuktaTa.dv KhaNuktaMa.dv KhaNuktaYa.dv KhaNuktaVa.dv KhaNuktaSha.dv KhaNuktaSa.dv GaNuktaJaNukta.dv JaJaNukta.dv JaNuktaBa.dv JaNuktaMa.dv JaNuktaYa.dv JaNuktaRa.dv
 
 
-
-
  0
 EndFPST
 ChainSub2: coverage "'psts' Post Base Substitutions lookup 154 contextual 31" 0 0 0 1
@@ -579,8 +567,6 @@ ChainSub2: coverage "'psts' Post Base Substitutions lookup 154 contextual 31" 0 
   Coverage: 14 purnaNyubja.dv
   BCoverage: 1327 matraA.dv matraIi00.dv matraAChandra.dv matraHrasvaO.dv matraO.dv matraAu.dv matraHrasvaAu.dv matraABindu.dv matraAChandrabindu.dv matraAReph.dv matraARephBindu.dv matraARephChandrabindu.dv matraOBindu.dv matraOChandrabindu.dv matraOReph.dv matraORephBindu.dv matraORephChandrabindu.dv matraAuBindu.dv matraAuChandrabindu.dv matraAuReph.dv matraAuRephBindu.dv matraAuRephChandrabindu.dv matraHrasvaOBindu.dv matraHrasvaOChandrabindu.dv matraHrasvaOReph.dv matraHrasvaORephBindu.dv matraHrasvaORephChandrabindu.dv matraHrasvaAuBindu.dv matraHrasvaAuChandrabindu.dv matraHrasvaAuReph.dv matraHrasvaAuRephBindu.dv mHrasvaAuRephChandrabindu.dv matraIi01.dv matraIi02.dv matraIi03.dv matraIi04.dv matraIi05.dv matraIi01Bindu.dv matraIi02Bindu.dv matraIi03Bindu.dv matraIi05Bindu.dv matraIi01Chandrabindu.dv matraIi02Chandrabindu.dv matraIi03Chandrabindu.dv matraIi05Chandrabindu.dv matraIi01Reph.dv matraIi02Reph.dv matraIi03Reph.dv matraIi04Reph.dv matraIi05Reph.dv matraIi01RephBindu.dv matraIi02RephBindu.dv matraIi03RephBindu.dv matraIi04RephBindu.dv matraIi05RephBindu.dv matraIi01RephChandrabindu.dv matraIi02RephChandrabindu.dv matraIi03RephChandrabindu.dv matraIi04RephChandrabindu.dv matraIi05RephChandrabindu.dv matraIi00Bindu.dv matraIi00Chandrabindu.dv matraIi00Reph.dv matraIi00RephBindu.dv matraIi00RephChandrabindu.dv
   BCoverage: 7250 Ka.dv Kha.dv Ga.dv Gha.dv Nga.dv Ca.dv Ja.dv Nya.dv Dda.dv Nna.dv Ta.dv Tha.dv Dha.dv Na.dv Nnna.dv Pa.dv Pha.dv Ba.dv Bha.dv Ma.dv Ya.dv Ra.dv La.dv Va.dv Sha.dv Ssa.dv Sa.dv KaNukta.dv GaNukta.dv PhaNukta.dv YaNukta.dv heavyYa.dv JaNya.dv KaRa.dv GaRa.dv GhaRa.dv CaRa.dv TaRa.dv ThaRa.dv NaRa.dv PaRa.dv PhaRa.dv BaRa.dv MaRa.dv VaRa.dv ShaRa.dv SaRa.dv altYa.dv KaKa.dv KaKha.dv KaNga.dv KaCa.dv KaCha.dv KaJa.dv KaTta.dv KaTtha.dv KaNna.dv KaTa.dv KaTha.dv KaNa.dv KaPa.dv KaPha.dv KaBa.dv KaBha.dv KaMa.dv KaYa.dv KaVa.dv KaSa.dv KaKaNna.dv KaKaYa.dv KaKaRa.dv KaKhaYa.dv KaCaCha.dv KaTaCa.dv KaTaYa.dv KaTaRa.dv KaTaVa.dv KaThaNa.dv KaThaYa.dv KaThaVa.dv KaNaYa.dv KaPaRa.dv KaMaYa.dv KaRaYa.dv KaLaYa.dv KaVaYa.dv KaShaRa.dv KaSaTta.dv KaSaDda.dv KaSaTa.dv KaSaTha.dv KaSaNa.dv KaSaPa.dv KaSaPha.dv KaSaMa.dv KaSaYa.dv KaSaRa.dv KaSaVa.dv KaTaRaYa.dv KaTaVaYa.dv KaSaTaRa.dv KaSaPaRa.dv KhaKha.dv KhaTa.dv KhaMa.dv KhaYa.dv KhaLa.dv KhaVa.dv KhaSha.dv KhaSa.dv KhaKhaYa.dv KhaNaYa.dv KhaRaYa.dv GaGa.dv GaGha.dv GaJa.dv GaDda.dv GaNna.dv GaDha.dv GaNa.dv GaBa.dv GaBha.dv GaMa.dv GaYa.dv GaLa.dv GaVa.dv GaSa.dv GaGaRa.dv GaGhaYa.dv GaGhaRa.dv GaJaNya.dv GaJaYa.dv GaJaVa.dv GaDaYa.dv GaDhaYa.dv GaDhaVa.dv GaNaYa.dv GaBaRa.dv GaMaYa.dv GaRaYa.dv GaRaVa.dv GaVaYa.dv GaVaRa.dv GaDhaRaYa.dv GhaGha.dv GhaMa.dv GhaYa.dv GhaLa.dv GhaVa.dv GhaGhaYa.dv GhaNaYa.dv GhaRaYa.dv GhaVaYa.dv NgaYa.dv CaKa.dv CaKha.dv CaCa.dv CaTa.dv CaPa.dv CaPha.dv CaMa.dv CaYa.dv CaLa.dv CaVa.dv CaSsa.dv CaSa.dv CaCaYa.dv CaKaTa.dv CaChaYa.dv CaPaRa.dv CaRaYa.dv CaVaYa.dv CaSaVa.dv CaTaRaYa.dv ChaYa.dv JaKa.dv JaDda.dv JaPa.dv JaBa.dv JaMa.dv JaYa.dv JaLa.dv JaVa.dv JaJaYa.dv JaJaVa.dv JaJaNya.dv JaNyaYa.dv JaNyaRa.dv JaNyaVa.dv JaMaYa.dv JaRaYa.dv JaVaYa.dv NyaKa.dv NyaKha.dv NyaNna.dv NyaPa.dv NyaBha.dv NyaMa.dv NyaYa.dv NyaLa.dv NyaVa.dv NyaSha.dv NyaSa.dv NyaKaVa.dv NyaKaTa.dv NyaGaRa.dv NyaCaMa.dv NyaCaYa.dv NyaCaVa.dv NyaChaYa.dv NyaJaMa.dv NyaJaYa.dv NyaJaVa.dv NyaNyaYa.dv NyaSaNa.dv NyaShaMa.dv NyaShaYa.dv NyaShaRa.dv TtaYa.dv TthaYa.dv TthaTthaYa.dv DdaYa.dv DdaDdaYa.dv DdaDdhaYa.dv DdhaYa.dv DdhaDdhaYa.dv DdhaRaYa.dv NnaKa.dv NnaCa.dv NnaDda.dv NnaNna.dv NnaTa.dv NnaTha.dv NnaNa.dv NnaBha.dv NnaMa.dv NnaYa.dv NnaRa.dv NnaLa.dv NnaVa.dv NnaSa.dv NnaJaYa.dv NnaTtaYa.dv NnaTthaYa.dv NnaDdaYa.dv NnaDdhaYa.dv NnaNnaYa.dv NnaThaYa.dv NnaVaYa.dv NnaSaMa.dv TaKa.dv TaKha.dv TaGa.dv TaGha.dv TaNga.dv TaCa.dv TaCha.dv TaJa.dv TaNya.dv TaTta.dv TaTtha.dv TaDda.dv TaDdha.dv TaNna.dv TaTa.dv TaTha.dv TaDha.dv TaNa.dv TaPa.dv TaPha.dv TaBa.dv TaBha.dv TaMa.dv TaYa.dv TaLa.dv TaVa.dv TaSha.dv TaSsa.dv TaSa.dv TaKaMa.dv TaKaYa.dv TaKaRa.dv TaKaVa.dv TaKaSa.dv TaKhaYa.dv TaTaKa.dv TaTaNa.dv TaTaMa.dv TaTaYa.dv TaRaYa.dv TaTaVa.dv TaTaRa.dv TaTaSa.dv TaThaYa.dv TaNaYa.dv TaNaVa.dv TaPaPha.dv TaPaRa.dv TaPhaRa.dv TaMaYa.dv TaYaVa.dv TaRaVa.dv TaVaYa.dv TaSsaTtha.dv TaSaKa.dv TaSaKha.dv TaSaTa.dv TaSaTha.dv TaSaNa.dv TaSaPa.dv TaSaPha.dv TaSaMa.dv TaSaYa.dv TaSaRa.dv TaSaVa.dv TaTaSaYa.dv TaSaNaYa.dv TaSaMaYa.dv TaSaTaRa.dv TaSaThaYa.dv TaSaPaRa.dv TaSaPhaYa.dv ThaTha.dv ThaNa.dv ThaMa.dv ThaYa.dv ThaLa.dv ThaVa.dv ThaThaYa.dv ThaNaYa.dv ThaRaYa.dv ThaVaYa.dv DaMa.dv DaYa.dv DhaDha.dv DhaMa.dv DhaYa.dv DhaLa.dv DhaVa.dv DhaDhaYa.dv DhaRaYa.dv DhaVaYa.dv DhaVaRa.dv NaKa.dv NaKha.dv NaGa.dv NaGha.dv NaNga.dv NaCa.dv NaJa.dv NaDda.dv NaTa.dv NaTha.dv NaDha.dv NaNa.dv NaPa.dv NaPha.dv NaBa.dv NaBha.dv NaMa.dv NaYa.dv NaLa.dv NaVa.dv NaSha.dv NaSsa.dv NaSa.dv NaKaTa.dv NaKaRa.dv NaKaVa.dv NaKaSa.dv NaKhaYa.dv NaGaRa.dv NaGaLa.dv NaGhaRa.dv NaGhaYa.dv NaJaYa.dv NaJaVa.dv NaNnaVa.dv NaTaTa.dv NaTaTha.dv NaTaMa.dv NaTaYa.dv NaTaRa.dv NaTaVa.dv NaTaSa.dv NaThaYa.dv NaThaRa.dv NaThaVa.dv NaDaMa.dv NaDaYa.dv NaDhaMa.dv NaDhaYa.dv NaDhaRa.dv NaDhaVa.dv NaNaPa.dv NaNaYa.dv NaNaVa.dv NaPaRa.dv NaPaSa.dv NaPhaRa.dv NaBaRa.dv NaBhaVa.dv NaMaYa.dv NaMaRa.dv NaYaVa.dv NaRaYa.dv NaVaYa.dv NaVaRa.dv NaSsaTtha.dv NaSaKa.dv NaSaKha.dv NaSaTta.dv NaSaTa.dv NaSaTha.dv NaSaNa.dv NaSaPa.dv NaSaPha.dv NaSaMa.dv NaSaYa.dv NaSaRa.dv NaSaVa.dv NaTaTaVa.dv NaTaRaYa.dv NaTaVaYa.dv NaTaSaTa.dv NaTaSaTha.dv NaTaSaNa.dv NaTaSaPa.dv NaTaSaRa.dv NaTaSaYa.dv NaTaSaVa.dv NaDhaRaYa.dv NaSaPhaYa.dv NaSaTaRa.dv PaKa.dv PaKha.dv PaCa.dv PaDda.dv PaNna.dv PaTa.dv PaTha.dv PaNa.dv PaPa.dv PaPha.dv PaBa.dv PaMa.dv PaYa.dv PaVa.dv PaSha.dv PaSsa.dv PaSa.dv PaNnaVa.dv PaTaYa.dv PaTaRa.dv PaTaVa.dv PaNaYa.dv PaPaYa.dv PaPaRa.dv PaRaYa.dv PaLaVa.dv PaVaYa.dv PaSaTha.dv PaSaNa.dv PaSaMa.dv PaSaYa.dv PaSaVa.dv PaTaRaYa.dv PaSaNaYa.dv PhaJa.dv PhaTta.dv PhaTtha.dv PhaNna.dv PhaTa.dv PhaNa.dv PhaPa.dv PhaPha.dv PhaMa.dv PhaYa.dv PhaLa.dv PhaVa.dv PhaSha.dv PhaPhaYa.dv PhaRaYa.dv BaKa.dv BaKha.dv BaGa.dv BaGha.dv BaJa.dv BaDda.dv BaTa.dv BaDha.dv BaNa.dv BaBa.dv BaBha.dv BaMa.dv BaYa.dv BaLa.dv BaVa.dv BaSha.dv BaSa.dv BaGaRa.dv BaJaYa.dv BaDaYa.dv BaDhaYa.dv BaDhaVa.dv BaBaYa.dv BaBaRa.dv BaRaYa.dv BaLaYa.dv BaVaYa.dv BhaNa.dv BhaBa.dv BhaBha.dv BhaMa.dv BhaLa.dv BhaVa.dv BhaBhaYa.dv BhaRaVa.dv MaKa.dv MaNna.dv MaTa.dv MaDha.dv MaNa.dv MaPa.dv MaPha.dv MaBa.dv MaBha.dv MaMa.dv MaYa.dv MaVa.dv MaSha.dv MaSa.dv MaDhaVa.dv MaNaYa.dv MaPaYa.dv MaPaSa.dv MaPhaYa.dv MaBaPa.dv MaBaYa.dv MaBaRa.dv MaBaLa.dv MaBaVa.dv MaBhaMa.dv MaBhaVa.dv MaMaYa.dv MaMaRa.dv MaRaYa.dv MaPaRa.dv MaVaYa.dv MaVaRa.dv MaVaLa.dv MaVaRaYa.dv MaPaSaYa.dv YaNa.dv YaPa.dv YaMa.dv YaYa.dv YaRa.dv YaLa.dv YaVa.dv LaKa.dv LaKha.dv LaGa.dv LaGha.dv LaNga.dv LaJa.dv LaTta.dv LaTtha.dv LaDda.dv LaDdha.dv LaTa.dv LaTha.dv LaDha.dv LaNa.dv LaPa.dv LaPha.dv LaBa.dv LaBha.dv LaMa.dv LaYa.dv LaVa.dv LaSha.dv LaSsa.dv LaSa.dv LaKaYa.dv LaGaYa.dv LaGaVa.dv LaNgaYa.dv LaPaTa.dv LaPaTha.dv LaPaYa.dv LaPaSa.dv LaBaYa.dv LaLaYa.dv LaVaDda.dv LaVaYa.dv LaGaVaYa.dv LaPaTaYa.dv LaPaTaVa.dv LaPaSaMa.dv LaPaSaYa.dv LaPaSaVa.dv LaVaDhaVa.dv VaJa.dv VaNna.dv VaDha.dv VaNa.dv VaBha.dv VaMa.dv VaYa.dv VaLa.dv VaVa.dv VaDaYa.dv VaDhaMa.dv VaDhaYa.dv VaDhaVa.dv VaNaYa.dv VaVaYa.dv VaRaYa.dv VaRaLa.dv VaDhaRaYa.dv ShaKa.dv ShaCha.dv ShaJa.dv ShaTta.dv ShaTa.dv ShaNa.dv ShaPa.dv ShaMa.dv ShaSha.dv ShaChaYa.dv ShaNaYa.dv ShaMaYa.dv ShaRaYa.dv ShaRaVa.dv ShaVaYa.dv SsaKa.dv SsaKha.dv SsaGa.dv SsaTta.dv SsaTtha.dv SsaNna.dv SsaTa.dv SsaNa.dv SsaPa.dv SsaPha.dv SsaBa.dv SsaMa.dv SsaYa.dv SsaRa.dv SsaLa.dv SsaVa.dv SsaSsa.dv SsaKaYa.dv SsaKaRa.dv SsaKaVa.dv SsaTtaYa.dv SsaTthaYa.dv SsaNnaYa.dv SsaNnaVa.dv SsaPaYa.dv SsaPaRa.dv SsaMaYa.dv SsaYaYa.dv SsaTtaRaYa.dv SsaTthaRaYa.dv SaKa.dv SaKha.dv SaGa.dv SaGha.dv SaNga.dv SaCa.dv SaCha.dv SaJa.dv SaNya.dv SaTta.dv SaTtha.dv SaDda.dv SaDdha.dv SaNna.dv SaTa.dv SaTha.dv SaDha.dv SaNa.dv SaPa.dv SaPha.dv SaBa.dv SaBha.dv SaMa.dv SaYa.dv SaLa.dv SaVa.dv SaSha.dv SaSsa.dv SaSa.dv SaKaYa.dv SaKaRa.dv SaTaTa.dv SaTaMa.dv SaTaYa.dv SaTaRa.dv SaTaVa.dv SaTaSa.dv SaThaNa.dv SaThaYa.dv SaDhaVa.dv SaNaYa.dv SaNaVa.dv SaPaMa.dv SaPaYa.dv SaPaRa.dv SaPhaYa.dv SaMaYa.dv SaMaRa.dv SaYaYa.dv SaRaYa.dv SaRaVa.dv SaVaYa.dv SaVaRa.dv SaVaVa.dv SaSaMa.dv SaSaYa.dv SaSaVa.dv SaTaTaYa.dv SaTaVaYa.dv SaTaRaYa.dv LlaDda.dv LlaNna.dv LlaYa.dv LlaLlaYa.dv ardhaKaNukta.dv KaKaNukta.dv KaNuktaTa.dv KaNuktaPha.dv KaNuktaBa.dv KaNuktaMa.dv KaNuktaLa.dv KaNuktaSa.dv ardhaGaNukta.dv PhaNuktaJa.dv PhaNuktaTta.dv PhaNuktaTa.dv LaPhaNukta.dv ShaKaNukta.dv SaPhaNukta.dv
-
-
 
  1
   SeqLookup: 0 "Single Substitution lookup 240"
@@ -688,9 +674,6 @@ ChainSub2: coverage "'psts' Post Base Substitutions lookup 154 contextual 18" 0 
   BCoverage: 642 Da.dv Zha.dv KaSsa.dv DaRa.dv KaDa.dv KaKaSsa.dv KaShaLa.dv KaSsaNna.dv KaSsaMa.dv KaSsaYa.dv KaSsaRa.dv KaSsaLa.dv KaSsaVa.dv KaSsaNnaYa.dv KaSsaMaYa.dv KhaNa.dv GaDa.dv GaDaDha.dv GaDaRa.dv GaDaVa.dv GaDaVaYa.dv CaNya.dv JaDa.dv NyaDa.dv NyaDaVa.dv NyaShaLa.dv NnaDa.dv NnaHaMa.dv NnaHaYa.dv TaDa.dv TaKaSsa.dv TaKhaNa.dv TaKaSsaMa.dv TaKaSsaVa.dv TaTaKaSsa.dv DaGa.dv DaGha.dv DaDha.dv DaNa.dv DaBa.dv DaBha.dv DaVa.dv DaGaYa.dv DaDhaYa.dv DaBhaYa.dv DaVaYa.dv DhaDa.dv NaDa.dv NaKaSsa.dv NaDaRa.dv NaDaVa.dv NaDaRaYa.dv NaDaVaYa.dv PaKaSsa.dv BaDa.dv BhaDa.dv MaDa.dv MaDaVa.dv LaDa.dv VaDa.dv ShaLa.dv SsaKaSsa.dv SaDa.dv SaKaSsa.dv
 
 
-
-
-
  0
 EndFPST
 ChainSub2: coverage "'psts' Post Base Substitutions lookup 154 contextual 17" 0 0 0 1
@@ -700,8 +683,6 @@ ChainSub2: coverage "'psts' Post Base Substitutions lookup 154 contextual 17" 0 
   BCoverage: 817 Rra.dv KhaNukta.dv JaNukta.dv KhaRa.dv JaRa.dv DhaRa.dv BhaRa.dv KaSha.dv KaKaSha.dv KaShaMa.dv KaShaVa.dv KaShaSha.dv GaDhaRa.dv GaBhaYa.dv GaBhaRa.dv CaNa.dv CaNyaYa.dv JaNa.dv JaJhaYa.dv JaBhaYa.dv JaBhaRa.dv JhaNa.dv JhaYa.dv JhaRaYa.dv NyaNa.dv NyaRa.dv NyaJaNya.dv NyaBhaYa.dv NyaShaVa.dv TaKhaRa.dv DaDhaMa.dv DaYaRa.dv DaRaYa.dv DhaNa.dv DhaNaYa.dv DhaNaVa.dv NaNaBha.dv NaBhaYa.dv NaBhaRa.dv PaShaYa.dv BaDhaRa.dv BaBhaYa.dv BaBhaRa.dv BhaNna.dv BhaYa.dv BhaNaVa.dv BhaTaYa.dv BhaRaYa.dv BhaVaYa.dv MaBhaYa.dv MaBhaRa.dv LaBhaYa.dv VaBhaYa.dv ShaCa.dv ShaYa.dv ShaVa.dv ShaCaPha.dv ShaCaYa.dv SaThaNaYa.dv KaNuktaSha.dv ardhaKhaNukta.dv KhaNuktaTa.dv KhaNuktaMa.dv KhaNuktaYa.dv KhaNuktaVa.dv KhaNuktaSha.dv KhaNuktaSa.dv GaNuktaJaNukta.dv JaJaNukta.dv JaNuktaBa.dv JaNuktaMa.dv JaNuktaYa.dv JaNuktaRa.dv
 
 
-
-
  0
 EndFPST
 ChainSub2: coverage "'psts' Post Base Substitutions lookup 154 contextual 16" 0 0 0 1
@@ -709,8 +690,6 @@ ChainSub2: coverage "'psts' Post Base Substitutions lookup 154 contextual 16" 0 
   Coverage: 17 mumbaiAnudatta.dv
   BCoverage: 1327 matraA.dv matraIi00.dv matraAChandra.dv matraHrasvaO.dv matraO.dv matraAu.dv matraHrasvaAu.dv matraABindu.dv matraAChandrabindu.dv matraAReph.dv matraARephBindu.dv matraARephChandrabindu.dv matraOBindu.dv matraOChandrabindu.dv matraOReph.dv matraORephBindu.dv matraORephChandrabindu.dv matraAuBindu.dv matraAuChandrabindu.dv matraAuReph.dv matraAuRephBindu.dv matraAuRephChandrabindu.dv matraHrasvaOBindu.dv matraHrasvaOChandrabindu.dv matraHrasvaOReph.dv matraHrasvaORephBindu.dv matraHrasvaORephChandrabindu.dv matraHrasvaAuBindu.dv matraHrasvaAuChandrabindu.dv matraHrasvaAuReph.dv matraHrasvaAuRephBindu.dv mHrasvaAuRephChandrabindu.dv matraIi01.dv matraIi02.dv matraIi03.dv matraIi04.dv matraIi05.dv matraIi01Bindu.dv matraIi02Bindu.dv matraIi03Bindu.dv matraIi05Bindu.dv matraIi01Chandrabindu.dv matraIi02Chandrabindu.dv matraIi03Chandrabindu.dv matraIi05Chandrabindu.dv matraIi01Reph.dv matraIi02Reph.dv matraIi03Reph.dv matraIi04Reph.dv matraIi05Reph.dv matraIi01RephBindu.dv matraIi02RephBindu.dv matraIi03RephBindu.dv matraIi04RephBindu.dv matraIi05RephBindu.dv matraIi01RephChandrabindu.dv matraIi02RephChandrabindu.dv matraIi03RephChandrabindu.dv matraIi04RephChandrabindu.dv matraIi05RephChandrabindu.dv matraIi00Bindu.dv matraIi00Chandrabindu.dv matraIi00Reph.dv matraIi00RephBindu.dv matraIi00RephChandrabindu.dv
   BCoverage: 7250 Ka.dv Kha.dv Ga.dv Gha.dv Nga.dv Ca.dv Ja.dv Nya.dv Dda.dv Nna.dv Ta.dv Tha.dv Dha.dv Na.dv Nnna.dv Pa.dv Pha.dv Ba.dv Bha.dv Ma.dv Ya.dv Ra.dv La.dv Va.dv Sha.dv Ssa.dv Sa.dv KaNukta.dv GaNukta.dv PhaNukta.dv YaNukta.dv heavyYa.dv JaNya.dv KaRa.dv GaRa.dv GhaRa.dv CaRa.dv TaRa.dv ThaRa.dv NaRa.dv PaRa.dv PhaRa.dv BaRa.dv MaRa.dv VaRa.dv ShaRa.dv SaRa.dv altYa.dv KaKa.dv KaKha.dv KaNga.dv KaCa.dv KaCha.dv KaJa.dv KaTta.dv KaTtha.dv KaNna.dv KaTa.dv KaTha.dv KaNa.dv KaPa.dv KaPha.dv KaBa.dv KaBha.dv KaMa.dv KaYa.dv KaVa.dv KaSa.dv KaKaNna.dv KaKaYa.dv KaKaRa.dv KaKhaYa.dv KaCaCha.dv KaTaCa.dv KaTaYa.dv KaTaRa.dv KaTaVa.dv KaThaNa.dv KaThaYa.dv KaThaVa.dv KaNaYa.dv KaPaRa.dv KaMaYa.dv KaRaYa.dv KaLaYa.dv KaVaYa.dv KaShaRa.dv KaSaTta.dv KaSaDda.dv KaSaTa.dv KaSaTha.dv KaSaNa.dv KaSaPa.dv KaSaPha.dv KaSaMa.dv KaSaYa.dv KaSaRa.dv KaSaVa.dv KaTaRaYa.dv KaTaVaYa.dv KaSaTaRa.dv KaSaPaRa.dv KhaKha.dv KhaTa.dv KhaMa.dv KhaYa.dv KhaLa.dv KhaVa.dv KhaSha.dv KhaSa.dv KhaKhaYa.dv KhaNaYa.dv KhaRaYa.dv GaGa.dv GaGha.dv GaJa.dv GaDda.dv GaNna.dv GaDha.dv GaNa.dv GaBa.dv GaBha.dv GaMa.dv GaYa.dv GaLa.dv GaVa.dv GaSa.dv GaGaRa.dv GaGhaYa.dv GaGhaRa.dv GaJaNya.dv GaJaYa.dv GaJaVa.dv GaDaYa.dv GaDhaYa.dv GaDhaVa.dv GaNaYa.dv GaBaRa.dv GaMaYa.dv GaRaYa.dv GaRaVa.dv GaVaYa.dv GaVaRa.dv GaDhaRaYa.dv GhaGha.dv GhaMa.dv GhaYa.dv GhaLa.dv GhaVa.dv GhaGhaYa.dv GhaNaYa.dv GhaRaYa.dv GhaVaYa.dv NgaYa.dv CaKa.dv CaKha.dv CaCa.dv CaTa.dv CaPa.dv CaPha.dv CaMa.dv CaYa.dv CaLa.dv CaVa.dv CaSsa.dv CaSa.dv CaCaYa.dv CaKaTa.dv CaChaYa.dv CaPaRa.dv CaRaYa.dv CaVaYa.dv CaSaVa.dv CaTaRaYa.dv ChaYa.dv JaKa.dv JaDda.dv JaPa.dv JaBa.dv JaMa.dv JaYa.dv JaLa.dv JaVa.dv JaJaYa.dv JaJaVa.dv JaJaNya.dv JaNyaYa.dv JaNyaRa.dv JaNyaVa.dv JaMaYa.dv JaRaYa.dv JaVaYa.dv NyaKa.dv NyaKha.dv NyaNna.dv NyaPa.dv NyaBha.dv NyaMa.dv NyaYa.dv NyaLa.dv NyaVa.dv NyaSha.dv NyaSa.dv NyaKaVa.dv NyaKaTa.dv NyaGaRa.dv NyaCaMa.dv NyaCaYa.dv NyaCaVa.dv NyaChaYa.dv NyaJaMa.dv NyaJaYa.dv NyaJaVa.dv NyaNyaYa.dv NyaSaNa.dv NyaShaMa.dv NyaShaYa.dv NyaShaRa.dv TtaYa.dv TthaYa.dv TthaTthaYa.dv DdaYa.dv DdaDdaYa.dv DdaDdhaYa.dv DdhaYa.dv DdhaDdhaYa.dv DdhaRaYa.dv NnaKa.dv NnaCa.dv NnaDda.dv NnaNna.dv NnaTa.dv NnaTha.dv NnaNa.dv NnaBha.dv NnaMa.dv NnaYa.dv NnaRa.dv NnaLa.dv NnaVa.dv NnaSa.dv NnaJaYa.dv NnaTtaYa.dv NnaTthaYa.dv NnaDdaYa.dv NnaDdhaYa.dv NnaNnaYa.dv NnaThaYa.dv NnaVaYa.dv NnaSaMa.dv TaKa.dv TaKha.dv TaGa.dv TaGha.dv TaNga.dv TaCa.dv TaCha.dv TaJa.dv TaNya.dv TaTta.dv TaTtha.dv TaDda.dv TaDdha.dv TaNna.dv TaTa.dv TaTha.dv TaDha.dv TaNa.dv TaPa.dv TaPha.dv TaBa.dv TaBha.dv TaMa.dv TaYa.dv TaLa.dv TaVa.dv TaSha.dv TaSsa.dv TaSa.dv TaKaMa.dv TaKaYa.dv TaKaRa.dv TaKaVa.dv TaKaSa.dv TaKhaYa.dv TaTaKa.dv TaTaNa.dv TaTaMa.dv TaTaYa.dv TaRaYa.dv TaTaVa.dv TaTaRa.dv TaTaSa.dv TaThaYa.dv TaNaYa.dv TaNaVa.dv TaPaPha.dv TaPaRa.dv TaPhaRa.dv TaMaYa.dv TaYaVa.dv TaRaVa.dv TaVaYa.dv TaSsaTtha.dv TaSaKa.dv TaSaKha.dv TaSaTa.dv TaSaTha.dv TaSaNa.dv TaSaPa.dv TaSaPha.dv TaSaMa.dv TaSaYa.dv TaSaRa.dv TaSaVa.dv TaTaSaYa.dv TaSaNaYa.dv TaSaMaYa.dv TaSaTaRa.dv TaSaThaYa.dv TaSaPaRa.dv TaSaPhaYa.dv ThaTha.dv ThaNa.dv ThaMa.dv ThaYa.dv ThaLa.dv ThaVa.dv ThaThaYa.dv ThaNaYa.dv ThaRaYa.dv ThaVaYa.dv DaMa.dv DaYa.dv DhaDha.dv DhaMa.dv DhaYa.dv DhaLa.dv DhaVa.dv DhaDhaYa.dv DhaRaYa.dv DhaVaYa.dv DhaVaRa.dv NaKa.dv NaKha.dv NaGa.dv NaGha.dv NaNga.dv NaCa.dv NaJa.dv NaDda.dv NaTa.dv NaTha.dv NaDha.dv NaNa.dv NaPa.dv NaPha.dv NaBa.dv NaBha.dv NaMa.dv NaYa.dv NaLa.dv NaVa.dv NaSha.dv NaSsa.dv NaSa.dv NaKaTa.dv NaKaRa.dv NaKaVa.dv NaKaSa.dv NaKhaYa.dv NaGaRa.dv NaGaLa.dv NaGhaRa.dv NaGhaYa.dv NaJaYa.dv NaJaVa.dv NaNnaVa.dv NaTaTa.dv NaTaTha.dv NaTaMa.dv NaTaYa.dv NaTaRa.dv NaTaVa.dv NaTaSa.dv NaThaYa.dv NaThaRa.dv NaThaVa.dv NaDaMa.dv NaDaYa.dv NaDhaMa.dv NaDhaYa.dv NaDhaRa.dv NaDhaVa.dv NaNaPa.dv NaNaYa.dv NaNaVa.dv NaPaRa.dv NaPaSa.dv NaPhaRa.dv NaBaRa.dv NaBhaVa.dv NaMaYa.dv NaMaRa.dv NaYaVa.dv NaRaYa.dv NaVaYa.dv NaVaRa.dv NaSsaTtha.dv NaSaKa.dv NaSaKha.dv NaSaTta.dv NaSaTa.dv NaSaTha.dv NaSaNa.dv NaSaPa.dv NaSaPha.dv NaSaMa.dv NaSaYa.dv NaSaRa.dv NaSaVa.dv NaTaTaVa.dv NaTaRaYa.dv NaTaVaYa.dv NaTaSaTa.dv NaTaSaTha.dv NaTaSaNa.dv NaTaSaPa.dv NaTaSaRa.dv NaTaSaYa.dv NaTaSaVa.dv NaDhaRaYa.dv NaSaPhaYa.dv NaSaTaRa.dv PaKa.dv PaKha.dv PaCa.dv PaDda.dv PaNna.dv PaTa.dv PaTha.dv PaNa.dv PaPa.dv PaPha.dv PaBa.dv PaMa.dv PaYa.dv PaVa.dv PaSha.dv PaSsa.dv PaSa.dv PaNnaVa.dv PaTaYa.dv PaTaRa.dv PaTaVa.dv PaNaYa.dv PaPaYa.dv PaPaRa.dv PaRaYa.dv PaLaVa.dv PaVaYa.dv PaSaTha.dv PaSaNa.dv PaSaMa.dv PaSaYa.dv PaSaVa.dv PaTaRaYa.dv PaSaNaYa.dv PhaJa.dv PhaTta.dv PhaTtha.dv PhaNna.dv PhaTa.dv PhaNa.dv PhaPa.dv PhaPha.dv PhaMa.dv PhaYa.dv PhaLa.dv PhaVa.dv PhaSha.dv PhaPhaYa.dv PhaRaYa.dv BaKa.dv BaKha.dv BaGa.dv BaGha.dv BaJa.dv BaDda.dv BaTa.dv BaDha.dv BaNa.dv BaBa.dv BaBha.dv BaMa.dv BaYa.dv BaLa.dv BaVa.dv BaSha.dv BaSa.dv BaGaRa.dv BaJaYa.dv BaDaYa.dv BaDhaYa.dv BaDhaVa.dv BaBaYa.dv BaBaRa.dv BaRaYa.dv BaLaYa.dv BaVaYa.dv BhaNa.dv BhaBa.dv BhaBha.dv BhaMa.dv BhaLa.dv BhaVa.dv BhaBhaYa.dv BhaRaVa.dv MaKa.dv MaNna.dv MaTa.dv MaDha.dv MaNa.dv MaPa.dv MaPha.dv MaBa.dv MaBha.dv MaMa.dv MaYa.dv MaVa.dv MaSha.dv MaSa.dv MaDhaVa.dv MaNaYa.dv MaPaYa.dv MaPaSa.dv MaPhaYa.dv MaBaPa.dv MaBaYa.dv MaBaRa.dv MaBaLa.dv MaBaVa.dv MaBhaMa.dv MaBhaVa.dv MaMaYa.dv MaMaRa.dv MaRaYa.dv MaPaRa.dv MaVaYa.dv MaVaRa.dv MaVaLa.dv MaVaRaYa.dv MaPaSaYa.dv YaNa.dv YaPa.dv YaMa.dv YaYa.dv YaRa.dv YaLa.dv YaVa.dv LaKa.dv LaKha.dv LaGa.dv LaGha.dv LaNga.dv LaJa.dv LaTta.dv LaTtha.dv LaDda.dv LaDdha.dv LaTa.dv LaTha.dv LaDha.dv LaNa.dv LaPa.dv LaPha.dv LaBa.dv LaBha.dv LaMa.dv LaYa.dv LaVa.dv LaSha.dv LaSsa.dv LaSa.dv LaKaYa.dv LaGaYa.dv LaGaVa.dv LaNgaYa.dv LaPaTa.dv LaPaTha.dv LaPaYa.dv LaPaSa.dv LaBaYa.dv LaLaYa.dv LaVaDda.dv LaVaYa.dv LaGaVaYa.dv LaPaTaYa.dv LaPaTaVa.dv LaPaSaMa.dv LaPaSaYa.dv LaPaSaVa.dv LaVaDhaVa.dv VaJa.dv VaNna.dv VaDha.dv VaNa.dv VaBha.dv VaMa.dv VaYa.dv VaLa.dv VaVa.dv VaDaYa.dv VaDhaMa.dv VaDhaYa.dv VaDhaVa.dv VaNaYa.dv VaVaYa.dv VaRaYa.dv VaRaLa.dv VaDhaRaYa.dv ShaKa.dv ShaCha.dv ShaJa.dv ShaTta.dv ShaTa.dv ShaNa.dv ShaPa.dv ShaMa.dv ShaSha.dv ShaChaYa.dv ShaNaYa.dv ShaMaYa.dv ShaRaYa.dv ShaRaVa.dv ShaVaYa.dv SsaKa.dv SsaKha.dv SsaGa.dv SsaTta.dv SsaTtha.dv SsaNna.dv SsaTa.dv SsaNa.dv SsaPa.dv SsaPha.dv SsaBa.dv SsaMa.dv SsaYa.dv SsaRa.dv SsaLa.dv SsaVa.dv SsaSsa.dv SsaKaYa.dv SsaKaRa.dv SsaKaVa.dv SsaTtaYa.dv SsaTthaYa.dv SsaNnaYa.dv SsaNnaVa.dv SsaPaYa.dv SsaPaRa.dv SsaMaYa.dv SsaYaYa.dv SsaTtaRaYa.dv SsaTthaRaYa.dv SaKa.dv SaKha.dv SaGa.dv SaGha.dv SaNga.dv SaCa.dv SaCha.dv SaJa.dv SaNya.dv SaTta.dv SaTtha.dv SaDda.dv SaDdha.dv SaNna.dv SaTa.dv SaTha.dv SaDha.dv SaNa.dv SaPa.dv SaPha.dv SaBa.dv SaBha.dv SaMa.dv SaYa.dv SaLa.dv SaVa.dv SaSha.dv SaSsa.dv SaSa.dv SaKaYa.dv SaKaRa.dv SaTaTa.dv SaTaMa.dv SaTaYa.dv SaTaRa.dv SaTaVa.dv SaTaSa.dv SaThaNa.dv SaThaYa.dv SaDhaVa.dv SaNaYa.dv SaNaVa.dv SaPaMa.dv SaPaYa.dv SaPaRa.dv SaPhaYa.dv SaMaYa.dv SaMaRa.dv SaYaYa.dv SaRaYa.dv SaRaVa.dv SaVaYa.dv SaVaRa.dv SaVaVa.dv SaSaMa.dv SaSaYa.dv SaSaVa.dv SaTaTaYa.dv SaTaVaYa.dv SaTaRaYa.dv LlaDda.dv LlaNna.dv LlaYa.dv LlaLlaYa.dv ardhaKaNukta.dv KaKaNukta.dv KaNuktaTa.dv KaNuktaPha.dv KaNuktaBa.dv KaNuktaMa.dv KaNuktaLa.dv KaNuktaSa.dv ardhaGaNukta.dv PhaNuktaJa.dv PhaNuktaTta.dv PhaNuktaTa.dv LaPhaNukta.dv ShaKaNukta.dv SaPhaNukta.dv
-
-
 
  1
   SeqLookup: 0 "Single Substitution lookup 226"
@@ -818,9 +797,6 @@ ChainSub2: coverage "'psts' Post Base Substitutions lookup 154 contextual 3" 0 0
   BCoverage: 642 Da.dv Zha.dv KaSsa.dv DaRa.dv KaDa.dv KaKaSsa.dv KaShaLa.dv KaSsaNna.dv KaSsaMa.dv KaSsaYa.dv KaSsaRa.dv KaSsaLa.dv KaSsaVa.dv KaSsaNnaYa.dv KaSsaMaYa.dv KhaNa.dv GaDa.dv GaDaDha.dv GaDaRa.dv GaDaVa.dv GaDaVaYa.dv CaNya.dv JaDa.dv NyaDa.dv NyaDaVa.dv NyaShaLa.dv NnaDa.dv NnaHaMa.dv NnaHaYa.dv TaDa.dv TaKaSsa.dv TaKhaNa.dv TaKaSsaMa.dv TaKaSsaVa.dv TaTaKaSsa.dv DaGa.dv DaGha.dv DaDha.dv DaNa.dv DaBa.dv DaBha.dv DaVa.dv DaGaYa.dv DaDhaYa.dv DaBhaYa.dv DaVaYa.dv DhaDa.dv NaDa.dv NaKaSsa.dv NaDaRa.dv NaDaVa.dv NaDaRaYa.dv NaDaVaYa.dv PaKaSsa.dv BaDa.dv BhaDa.dv MaDa.dv MaDaVa.dv LaDa.dv VaDa.dv ShaLa.dv SsaKaSsa.dv SaDa.dv SaKaSsa.dv
 
 
-
-
-
  0
 EndFPST
 ChainSub2: coverage "'psts' Post Base Substitutions lookup 154 contextual 2" 0 0 0 1
@@ -830,8 +806,6 @@ ChainSub2: coverage "'psts' Post Base Substitutions lookup 154 contextual 2" 0 0
   BCoverage: 817 Rra.dv KhaNukta.dv JaNukta.dv KhaRa.dv JaRa.dv DhaRa.dv BhaRa.dv KaSha.dv KaKaSha.dv KaShaMa.dv KaShaVa.dv KaShaSha.dv GaDhaRa.dv GaBhaYa.dv GaBhaRa.dv CaNa.dv CaNyaYa.dv JaNa.dv JaJhaYa.dv JaBhaYa.dv JaBhaRa.dv JhaNa.dv JhaYa.dv JhaRaYa.dv NyaNa.dv NyaRa.dv NyaJaNya.dv NyaBhaYa.dv NyaShaVa.dv TaKhaRa.dv DaDhaMa.dv DaYaRa.dv DaRaYa.dv DhaNa.dv DhaNaYa.dv DhaNaVa.dv NaNaBha.dv NaBhaYa.dv NaBhaRa.dv PaShaYa.dv BaDhaRa.dv BaBhaYa.dv BaBhaRa.dv BhaNna.dv BhaYa.dv BhaNaVa.dv BhaTaYa.dv BhaRaYa.dv BhaVaYa.dv MaBhaYa.dv MaBhaRa.dv LaBhaYa.dv VaBhaYa.dv ShaCa.dv ShaYa.dv ShaVa.dv ShaCaPha.dv ShaCaYa.dv SaThaNaYa.dv KaNuktaSha.dv ardhaKhaNukta.dv KhaNuktaTa.dv KhaNuktaMa.dv KhaNuktaYa.dv KhaNuktaVa.dv KhaNuktaSha.dv KhaNuktaSa.dv GaNuktaJaNukta.dv JaJaNukta.dv JaNuktaBa.dv JaNuktaMa.dv JaNuktaYa.dv JaNuktaRa.dv
 
 
-
-
  0
 EndFPST
 ChainSub2: coverage "'psts' Post Base Substitutions lookup 154 contextual 1" 0 0 0 1
@@ -839,8 +813,6 @@ ChainSub2: coverage "'psts' Post Base Substitutions lookup 154 contextual 1" 0 0
   Coverage: 11 Anudatta.dv
   BCoverage: 1327 matraA.dv matraIi00.dv matraAChandra.dv matraHrasvaO.dv matraO.dv matraAu.dv matraHrasvaAu.dv matraABindu.dv matraAChandrabindu.dv matraAReph.dv matraARephBindu.dv matraARephChandrabindu.dv matraOBindu.dv matraOChandrabindu.dv matraOReph.dv matraORephBindu.dv matraORephChandrabindu.dv matraAuBindu.dv matraAuChandrabindu.dv matraAuReph.dv matraAuRephBindu.dv matraAuRephChandrabindu.dv matraHrasvaOBindu.dv matraHrasvaOChandrabindu.dv matraHrasvaOReph.dv matraHrasvaORephBindu.dv matraHrasvaORephChandrabindu.dv matraHrasvaAuBindu.dv matraHrasvaAuChandrabindu.dv matraHrasvaAuReph.dv matraHrasvaAuRephBindu.dv mHrasvaAuRephChandrabindu.dv matraIi01.dv matraIi02.dv matraIi03.dv matraIi04.dv matraIi05.dv matraIi01Bindu.dv matraIi02Bindu.dv matraIi03Bindu.dv matraIi05Bindu.dv matraIi01Chandrabindu.dv matraIi02Chandrabindu.dv matraIi03Chandrabindu.dv matraIi05Chandrabindu.dv matraIi01Reph.dv matraIi02Reph.dv matraIi03Reph.dv matraIi04Reph.dv matraIi05Reph.dv matraIi01RephBindu.dv matraIi02RephBindu.dv matraIi03RephBindu.dv matraIi04RephBindu.dv matraIi05RephBindu.dv matraIi01RephChandrabindu.dv matraIi02RephChandrabindu.dv matraIi03RephChandrabindu.dv matraIi04RephChandrabindu.dv matraIi05RephChandrabindu.dv matraIi00Bindu.dv matraIi00Chandrabindu.dv matraIi00Reph.dv matraIi00RephBindu.dv matraIi00RephChandrabindu.dv
   BCoverage: 7250 Ka.dv Kha.dv Ga.dv Gha.dv Nga.dv Ca.dv Ja.dv Nya.dv Dda.dv Nna.dv Ta.dv Tha.dv Dha.dv Na.dv Nnna.dv Pa.dv Pha.dv Ba.dv Bha.dv Ma.dv Ya.dv Ra.dv La.dv Va.dv Sha.dv Ssa.dv Sa.dv KaNukta.dv GaNukta.dv PhaNukta.dv YaNukta.dv heavyYa.dv JaNya.dv KaRa.dv GaRa.dv GhaRa.dv CaRa.dv TaRa.dv ThaRa.dv NaRa.dv PaRa.dv PhaRa.dv BaRa.dv MaRa.dv VaRa.dv ShaRa.dv SaRa.dv altYa.dv KaKa.dv KaKha.dv KaNga.dv KaCa.dv KaCha.dv KaJa.dv KaTta.dv KaTtha.dv KaNna.dv KaTa.dv KaTha.dv KaNa.dv KaPa.dv KaPha.dv KaBa.dv KaBha.dv KaMa.dv KaYa.dv KaVa.dv KaSa.dv KaKaNna.dv KaKaYa.dv KaKaRa.dv KaKhaYa.dv KaCaCha.dv KaTaCa.dv KaTaYa.dv KaTaRa.dv KaTaVa.dv KaThaNa.dv KaThaYa.dv KaThaVa.dv KaNaYa.dv KaPaRa.dv KaMaYa.dv KaRaYa.dv KaLaYa.dv KaVaYa.dv KaShaRa.dv KaSaTta.dv KaSaDda.dv KaSaTa.dv KaSaTha.dv KaSaNa.dv KaSaPa.dv KaSaPha.dv KaSaMa.dv KaSaYa.dv KaSaRa.dv KaSaVa.dv KaTaRaYa.dv KaTaVaYa.dv KaSaTaRa.dv KaSaPaRa.dv KhaKha.dv KhaTa.dv KhaMa.dv KhaYa.dv KhaLa.dv KhaVa.dv KhaSha.dv KhaSa.dv KhaKhaYa.dv KhaNaYa.dv KhaRaYa.dv GaGa.dv GaGha.dv GaJa.dv GaDda.dv GaNna.dv GaDha.dv GaNa.dv GaBa.dv GaBha.dv GaMa.dv GaYa.dv GaLa.dv GaVa.dv GaSa.dv GaGaRa.dv GaGhaYa.dv GaGhaRa.dv GaJaNya.dv GaJaYa.dv GaJaVa.dv GaDaYa.dv GaDhaYa.dv GaDhaVa.dv GaNaYa.dv GaBaRa.dv GaMaYa.dv GaRaYa.dv GaRaVa.dv GaVaYa.dv GaVaRa.dv GaDhaRaYa.dv GhaGha.dv GhaMa.dv GhaYa.dv GhaLa.dv GhaVa.dv GhaGhaYa.dv GhaNaYa.dv GhaRaYa.dv GhaVaYa.dv NgaYa.dv CaKa.dv CaKha.dv CaCa.dv CaTa.dv CaPa.dv CaPha.dv CaMa.dv CaYa.dv CaLa.dv CaVa.dv CaSsa.dv CaSa.dv CaCaYa.dv CaKaTa.dv CaChaYa.dv CaPaRa.dv CaRaYa.dv CaVaYa.dv CaSaVa.dv CaTaRaYa.dv ChaYa.dv JaKa.dv JaDda.dv JaPa.dv JaBa.dv JaMa.dv JaYa.dv JaLa.dv JaVa.dv JaJaYa.dv JaJaVa.dv JaJaNya.dv JaNyaYa.dv JaNyaRa.dv JaNyaVa.dv JaMaYa.dv JaRaYa.dv JaVaYa.dv NyaKa.dv NyaKha.dv NyaNna.dv NyaPa.dv NyaBha.dv NyaMa.dv NyaYa.dv NyaLa.dv NyaVa.dv NyaSha.dv NyaSa.dv NyaKaVa.dv NyaKaTa.dv NyaGaRa.dv NyaCaMa.dv NyaCaYa.dv NyaCaVa.dv NyaChaYa.dv NyaJaMa.dv NyaJaYa.dv NyaJaVa.dv NyaNyaYa.dv NyaSaNa.dv NyaShaMa.dv NyaShaYa.dv NyaShaRa.dv TtaYa.dv TthaYa.dv TthaTthaYa.dv DdaYa.dv DdaDdaYa.dv DdaDdhaYa.dv DdhaYa.dv DdhaDdhaYa.dv DdhaRaYa.dv NnaKa.dv NnaCa.dv NnaDda.dv NnaNna.dv NnaTa.dv NnaTha.dv NnaNa.dv NnaBha.dv NnaMa.dv NnaYa.dv NnaRa.dv NnaLa.dv NnaVa.dv NnaSa.dv NnaJaYa.dv NnaTtaYa.dv NnaTthaYa.dv NnaDdaYa.dv NnaDdhaYa.dv NnaNnaYa.dv NnaThaYa.dv NnaVaYa.dv NnaSaMa.dv TaKa.dv TaKha.dv TaGa.dv TaGha.dv TaNga.dv TaCa.dv TaCha.dv TaJa.dv TaNya.dv TaTta.dv TaTtha.dv TaDda.dv TaDdha.dv TaNna.dv TaTa.dv TaTha.dv TaDha.dv TaNa.dv TaPa.dv TaPha.dv TaBa.dv TaBha.dv TaMa.dv TaYa.dv TaLa.dv TaVa.dv TaSha.dv TaSsa.dv TaSa.dv TaKaMa.dv TaKaYa.dv TaKaRa.dv TaKaVa.dv TaKaSa.dv TaKhaYa.dv TaTaKa.dv TaTaNa.dv TaTaMa.dv TaTaYa.dv TaRaYa.dv TaTaVa.dv TaTaRa.dv TaTaSa.dv TaThaYa.dv TaNaYa.dv TaNaVa.dv TaPaPha.dv TaPaRa.dv TaPhaRa.dv TaMaYa.dv TaYaVa.dv TaRaVa.dv TaVaYa.dv TaSsaTtha.dv TaSaKa.dv TaSaKha.dv TaSaTa.dv TaSaTha.dv TaSaNa.dv TaSaPa.dv TaSaPha.dv TaSaMa.dv TaSaYa.dv TaSaRa.dv TaSaVa.dv TaTaSaYa.dv TaSaNaYa.dv TaSaMaYa.dv TaSaTaRa.dv TaSaThaYa.dv TaSaPaRa.dv TaSaPhaYa.dv ThaTha.dv ThaNa.dv ThaMa.dv ThaYa.dv ThaLa.dv ThaVa.dv ThaThaYa.dv ThaNaYa.dv ThaRaYa.dv ThaVaYa.dv DaMa.dv DaYa.dv DhaDha.dv DhaMa.dv DhaYa.dv DhaLa.dv DhaVa.dv DhaDhaYa.dv DhaRaYa.dv DhaVaYa.dv DhaVaRa.dv NaKa.dv NaKha.dv NaGa.dv NaGha.dv NaNga.dv NaCa.dv NaJa.dv NaDda.dv NaTa.dv NaTha.dv NaDha.dv NaNa.dv NaPa.dv NaPha.dv NaBa.dv NaBha.dv NaMa.dv NaYa.dv NaLa.dv NaVa.dv NaSha.dv NaSsa.dv NaSa.dv NaKaTa.dv NaKaRa.dv NaKaVa.dv NaKaSa.dv NaKhaYa.dv NaGaRa.dv NaGaLa.dv NaGhaRa.dv NaGhaYa.dv NaJaYa.dv NaJaVa.dv NaNnaVa.dv NaTaTa.dv NaTaTha.dv NaTaMa.dv NaTaYa.dv NaTaRa.dv NaTaVa.dv NaTaSa.dv NaThaYa.dv NaThaRa.dv NaThaVa.dv NaDaMa.dv NaDaYa.dv NaDhaMa.dv NaDhaYa.dv NaDhaRa.dv NaDhaVa.dv NaNaPa.dv NaNaYa.dv NaNaVa.dv NaPaRa.dv NaPaSa.dv NaPhaRa.dv NaBaRa.dv NaBhaVa.dv NaMaYa.dv NaMaRa.dv NaYaVa.dv NaRaYa.dv NaVaYa.dv NaVaRa.dv NaSsaTtha.dv NaSaKa.dv NaSaKha.dv NaSaTta.dv NaSaTa.dv NaSaTha.dv NaSaNa.dv NaSaPa.dv NaSaPha.dv NaSaMa.dv NaSaYa.dv NaSaRa.dv NaSaVa.dv NaTaTaVa.dv NaTaRaYa.dv NaTaVaYa.dv NaTaSaTa.dv NaTaSaTha.dv NaTaSaNa.dv NaTaSaPa.dv NaTaSaRa.dv NaTaSaYa.dv NaTaSaVa.dv NaDhaRaYa.dv NaSaPhaYa.dv NaSaTaRa.dv PaKa.dv PaKha.dv PaCa.dv PaDda.dv PaNna.dv PaTa.dv PaTha.dv PaNa.dv PaPa.dv PaPha.dv PaBa.dv PaMa.dv PaYa.dv PaVa.dv PaSha.dv PaSsa.dv PaSa.dv PaNnaVa.dv PaTaYa.dv PaTaRa.dv PaTaVa.dv PaNaYa.dv PaPaYa.dv PaPaRa.dv PaRaYa.dv PaLaVa.dv PaVaYa.dv PaSaTha.dv PaSaNa.dv PaSaMa.dv PaSaYa.dv PaSaVa.dv PaTaRaYa.dv PaSaNaYa.dv PhaJa.dv PhaTta.dv PhaTtha.dv PhaNna.dv PhaTa.dv PhaNa.dv PhaPa.dv PhaPha.dv PhaMa.dv PhaYa.dv PhaLa.dv PhaVa.dv PhaSha.dv PhaPhaYa.dv PhaRaYa.dv BaKa.dv BaKha.dv BaGa.dv BaGha.dv BaJa.dv BaDda.dv BaTa.dv BaDha.dv BaNa.dv BaBa.dv BaBha.dv BaMa.dv BaYa.dv BaLa.dv BaVa.dv BaSha.dv BaSa.dv BaGaRa.dv BaJaYa.dv BaDaYa.dv BaDhaYa.dv BaDhaVa.dv BaBaYa.dv BaBaRa.dv BaRaYa.dv BaLaYa.dv BaVaYa.dv BhaNa.dv BhaBa.dv BhaBha.dv BhaMa.dv BhaLa.dv BhaVa.dv BhaBhaYa.dv BhaRaVa.dv MaKa.dv MaNna.dv MaTa.dv MaDha.dv MaNa.dv MaPa.dv MaPha.dv MaBa.dv MaBha.dv MaMa.dv MaYa.dv MaVa.dv MaSha.dv MaSa.dv MaDhaVa.dv MaNaYa.dv MaPaYa.dv MaPaSa.dv MaPhaYa.dv MaBaPa.dv MaBaYa.dv MaBaRa.dv MaBaLa.dv MaBaVa.dv MaBhaMa.dv MaBhaVa.dv MaMaYa.dv MaMaRa.dv MaRaYa.dv MaPaRa.dv MaVaYa.dv MaVaRa.dv MaVaLa.dv MaVaRaYa.dv MaPaSaYa.dv YaNa.dv YaPa.dv YaMa.dv YaYa.dv YaRa.dv YaLa.dv YaVa.dv LaKa.dv LaKha.dv LaGa.dv LaGha.dv LaNga.dv LaJa.dv LaTta.dv LaTtha.dv LaDda.dv LaDdha.dv LaTa.dv LaTha.dv LaDha.dv LaNa.dv LaPa.dv LaPha.dv LaBa.dv LaBha.dv LaMa.dv LaYa.dv LaVa.dv LaSha.dv LaSsa.dv LaSa.dv LaKaYa.dv LaGaYa.dv LaGaVa.dv LaNgaYa.dv LaPaTa.dv LaPaTha.dv LaPaYa.dv LaPaSa.dv LaBaYa.dv LaLaYa.dv LaVaDda.dv LaVaYa.dv LaGaVaYa.dv LaPaTaYa.dv LaPaTaVa.dv LaPaSaMa.dv LaPaSaYa.dv LaPaSaVa.dv LaVaDhaVa.dv VaJa.dv VaNna.dv VaDha.dv VaNa.dv VaBha.dv VaMa.dv VaYa.dv VaLa.dv VaVa.dv VaDaYa.dv VaDhaMa.dv VaDhaYa.dv VaDhaVa.dv VaNaYa.dv VaVaYa.dv VaRaYa.dv VaRaLa.dv VaDhaRaYa.dv ShaKa.dv ShaCha.dv ShaJa.dv ShaTta.dv ShaTa.dv ShaNa.dv ShaPa.dv ShaMa.dv ShaSha.dv ShaChaYa.dv ShaNaYa.dv ShaMaYa.dv ShaRaYa.dv ShaRaVa.dv ShaVaYa.dv SsaKa.dv SsaKha.dv SsaGa.dv SsaTta.dv SsaTtha.dv SsaNna.dv SsaTa.dv SsaNa.dv SsaPa.dv SsaPha.dv SsaBa.dv SsaMa.dv SsaYa.dv SsaRa.dv SsaLa.dv SsaVa.dv SsaSsa.dv SsaKaYa.dv SsaKaRa.dv SsaKaVa.dv SsaTtaYa.dv SsaTthaYa.dv SsaNnaYa.dv SsaNnaVa.dv SsaPaYa.dv SsaPaRa.dv SsaMaYa.dv SsaYaYa.dv SsaTtaRaYa.dv SsaTthaRaYa.dv SaKa.dv SaKha.dv SaGa.dv SaGha.dv SaNga.dv SaCa.dv SaCha.dv SaJa.dv SaNya.dv SaTta.dv SaTtha.dv SaDda.dv SaDdha.dv SaNna.dv SaTa.dv SaTha.dv SaDha.dv SaNa.dv SaPa.dv SaPha.dv SaBa.dv SaBha.dv SaMa.dv SaYa.dv SaLa.dv SaVa.dv SaSha.dv SaSsa.dv SaSa.dv SaKaYa.dv SaKaRa.dv SaTaTa.dv SaTaMa.dv SaTaYa.dv SaTaRa.dv SaTaVa.dv SaTaSa.dv SaThaNa.dv SaThaYa.dv SaDhaVa.dv SaNaYa.dv SaNaVa.dv SaPaMa.dv SaPaYa.dv SaPaRa.dv SaPhaYa.dv SaMaYa.dv SaMaRa.dv SaYaYa.dv SaRaYa.dv SaRaVa.dv SaVaYa.dv SaVaRa.dv SaVaVa.dv SaSaMa.dv SaSaYa.dv SaSaVa.dv SaTaTaYa.dv SaTaVaYa.dv SaTaRaYa.dv LlaDda.dv LlaNna.dv LlaYa.dv LlaLlaYa.dv ardhaKaNukta.dv KaKaNukta.dv KaNuktaTa.dv KaNuktaPha.dv KaNuktaBa.dv KaNuktaMa.dv KaNuktaLa.dv KaNuktaSa.dv ardhaGaNukta.dv PhaNuktaJa.dv PhaNuktaTta.dv PhaNuktaTa.dv LaPhaNukta.dv ShaKaNukta.dv SaPhaNukta.dv
-
-
 
  1
   SeqLookup: 0 "Single Substitution lookup 212"
@@ -866,17 +838,12 @@ ChainSub2: coverage "'psts' Post Base Substitutions lookup 152 contextual 3" 0 0
   BCoverage: 145 Nga.dv Lla.dv Zha.dv KaNga.dv NgaRa.dv NgaGaLa.dv NgaGaVa.dv NgaTaVa.dv NgaNnaVa.dv TtaSaLa.dv TaNga.dv NaNga.dv LaNga.dv SaNga.dv LlaLla.dv
 
 
-
-
-
  0
 EndFPST
 ChainSub2: coverage "'psts' Post Base Substitutions lookup 152 contextual 2" 0 0 0 1
  1 1 0
   Coverage: 123 matraIi00.dv matraIi00Bindu.dv matraIi00Chandrabindu.dv matraIi00Reph.dv matraIi00RephBindu.dv matraIi00RephChandrabindu.dv
   BCoverage: 884 Ra.dv Rra.dv La.dv KaSsaLa.dv KhaLa.dv GaLa.dv GhaLa.dv NgaKa.dv NgaKha.dv NgaGa.dv NgaGha.dv NgaNga.dv NgaCa.dv NgaJa.dv NgaNna.dv NgaTa.dv NgaDa.dv NgaDha.dv NgaNa.dv NgaPa.dv NgaBa.dv NgaBha.dv NgaMa.dv NgaLa.dv NgaVa.dv NgaSha.dv NgaSsa.dv NgaSa.dv NgaHa.dv NgaKaTa.dv NgaKaRa.dv NgaKaLa.dv NgaKaVa.dv NgaKaSa.dv NgaKaSsa.dv NgaKhaNa.dv NgaKhaRa.dv NgaGaDha.dv NgaGaMa.dv NgaGaRa.dv NgaGhaNa.dv NgaGhaRa.dv NgaTaRa.dv NgaNaRa.dv NgaPaRa.dv NgaRaVa.dv NgaVaRa.dv NgaSaGa.dv NgaSaPa.dv NgaSaVa.dv NgaHaRa.dv NgaKaTaRa.dv NgaTaTaVa.dv NgaKaSsaNna.dv NgaKaSsaMa.dv NgaKaSsaRa.dv NgaKaSsaVa.dv NgaGaDhaVa.dv NgaKaSsaNnaVa.dv CaLa.dv CaChaLa.dv CaChaVa.dv ChaNa.dv ChaMa.dv ChaLa.dv ChaVa.dv JaLa.dv JhaLa.dv NyaLa.dv NyaChaNa.dv NyaChaLa.dv NyaChaVa.dv TtaPha.dv NnaLa.dv ThaLa.dv NaLa.dv NaGaLa.dv PhaLa.dv MaVaLa.dv YaLa.dv LaRa.dv LaLa.dv VaLa.dv VaRaLa.dv SsaLa.dv KaNuktaLa.dv
-
-
 
 
  0
@@ -1344,9 +1311,6 @@ ChainSub2: coverage "'abvs' Above Base Substitutions lookup 145 contextual 11" 0
   BCoverage: 267 Gha.dv Cha.dv Tha.dv La.dv Lla.dv Zha.dv ThaRa.dv GaNa.dv NgaDha.dv NgaNnaVa.dv NgaSaGa.dv NgaSaPa.dv NgaSaVa.dv TtaKha.dv TtaSaTa.dv TtaSaPa.dv TtaSaLa.dv TtaSaVa.dv DdaDha.dv ThaNa.dv DaYa.dv DaYaRa.dv LaRa.dv LaLa.dv HaBa.dv HaNna.dv HaLa.dv HaVa.dv HaVaRa.dv
 
 
-
-
-
   BCoverage: 0 
  0
 EndFPST
@@ -1370,8 +1334,6 @@ ChainSub2: coverage "'abvs' Above Base Substitutions lookup 145 contextual 8" 0 
  1 2 0
   Coverage: 15 Chandrabindu.dv
   BCoverage: 447 Nga.dv Tta.dv Ttha.dv Dda.dv Ddha.dv Da.dv Na.dv Nnna.dv Pa.dv Pha.dv Ba.dv Va.dv DdaNukta.dv DdhaNukta.dv PhaNukta.dv KaRa.dv DaRa.dv NaRa.dv PaRa.dv PhaRa.dv BaRa.dv MaRa.dv VaRa.dv KaKa.dv KaNa.dv KaLa.dv NgaRa.dv DdhaDdha.dv DdhaNna.dv DdhaNa.dv DdhaMa.dv DdhaLa.dv DdhaVa.dv DaGa.dv DaJha.dv DaDda.dv DaDdha.dv DaLa.dv DaGaRa.dv DaGaLa.dv DaDdaDda.dv PaTa.dv PaNa.dv PaLa.dv PhaNa.dv BaNa.dv MaNa.dv VaNa.dv HaNa.dv HaNaVa.dv PhaNuktaRa.dv
-
-
 
   BCoverage: 11 matraI03.dv
  1
@@ -1397,8 +1359,6 @@ ChainSub2: coverage "'abvs' Above Base Substitutions lookup 145 contextual 5" 0 
  1 2 0
   Coverage: 15 Chandrabindu.dv
   BCoverage: 16 Ra.dv Rra.dv
-
-
 
 
   BCoverage: 11 matraI00.dv
@@ -1762,7 +1722,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 66150 50 19
+WinInfo: 66250 50 19
 BeginPrivate: 7
 BlueValues 23 [-12 0 500 512 700 712]
 OtherBlues 11 [-215 -200]
@@ -24226,7 +24186,7 @@ SplineSet
  526.374023438 293.317382812 599.166015625 332.38671875 599.166015625 423.443359375 c 0
  599.166015625 560.852539062 531.389648438 560.853515625 405.000976562 560.853515625 c 1
 EndSplineSet
-Validated: 524321
+Validated: 33
 LCarets2: 1 0
 Ligature2: "'nukt' Nukta Forms lookup 1 subtable" Lla.dv Nukta.dv
 EndChar
@@ -35635,7 +35595,7 @@ SplineSet
  473.311523438 306.829101562 413.294921875 315.000976562 343.669921875 315.000976562 c 0
  271.411132812 315.000976562 186.420898438 311.024414062 122.8203125 284.65625 c 1
 EndSplineSet
-Validated: 524329
+Validated: 41
 LCarets2: 1 0
 Ligature2: "'nukt' Nukta Forms lookup 1 subtable" Da.dv Nukta.dv
 EndChar
@@ -35769,7 +35729,7 @@ SplineSet
  362 430.999023438 431.693359375 400.999023438 440.140625 334.356445312 c 0
  447.97554988 272.542876829 447.371420335 223.924073 404.45424674 186.091004841 c 1
 EndSplineSet
-Validated: 524329
+Validated: 41
 LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaTtta.dv Ttta.dv
 EndChar
@@ -35818,7 +35778,7 @@ SplineSet
  59 159 200 43 358 43 c 0
  491.136558063 43 580.065942291 108.010549756 591.700365821 212.207035129 c 1
 EndSplineSet
-Validated: 524329
+Validated: 41
 LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaDdda.dv Rra.dv
 EndChar
@@ -36077,7 +36037,7 @@ SplineSet
  222 430.999023438 149.291992188 384.999023438 143.859375 334.356445312 c 0
  137.114306938 271.476514011 137.226342507 222.404026235 181.708867026 184.375145476 c 1
 EndSplineSet
-Validated: 524321
+Validated: 33
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaTtta.dv ardhaTtta.dv Rra.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" TttaTtta.dv Rra.dv
 LCarets2: 2 0 0
@@ -36148,7 +36108,7 @@ SplineSet
  595.165039062 560.8515625 507.388671875 560.8515625 381 560.8515625 c 5xd0
  381 292.310546875 l 5
 EndSplineSet
-Validated: 524321
+Validated: 33
 LCarets2: 1 0
 Ligature2: "'half' Half Forms lookup 10 subtable" Zha.dv Halant.dv
 EndChar
@@ -120199,10 +120159,10 @@ Ligature2: "'abvs' Above Base Substitutions lookup 147 subtable" matraIi00Reph.d
 EndChar
 
 StartChar: matraHrasvaAi.dv
-Encoding: 67048 -1 2415
+Encoding: 67048 43263 2415
 Width: 0
 GlyphClass: 4
-Flags: HMW
+Flags: HMWO
 HStem: 680 20G<-226 -226 -170 -136 -136 -136 -66 -66> 697 137<-338.5 -66 -338.5 -226> 766 68<-438.5 -277> 866 58 1044 20G<-373 -373>
 VStem: -548 51<836.5 911> -399 38<952 970.5 947 999> -210 40<700 754.5> -94 44<794 816.5>
 AnchorPoint: "Anchor-1" 168 0 basemark 0
@@ -120240,8 +120200,8 @@ SplineSet
  -88 697 l 5x5f80
 EndSplineSet
 Validated: 1
-LCarets2: 1 0
 Ligature2: "'abvs' Above Base Substitutions lookup 147 subtable" matraAi.dv Chandra.dv
+LCarets2: 1 0
 EndChar
 
 StartChar: ardhaJaNukta.dv
@@ -123646,7 +123606,7 @@ SplineSet
  1127.00097656 477.000976562 1166.00097656 423.000976562 1166.00097656 345.000976562 c 4
  1166.00097656 324.040039062 1160.87011719 303.891601562 1151.38769531 285.025390625 c 5
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv Shsa.dv
 EndChar
@@ -125791,7 +125751,7 @@ SplineSet
  804 280 858 234 925 234 c 4
  988 234 1055 269 1087 322 c 5
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv Ka.dv
 EndChar
@@ -125859,7 +125819,7 @@ SplineSet
  1058 472 1110 519 1181 519 c 4
  1244 519 1318 487 1363 442 c 5
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv Kha.dv
 EndChar
@@ -125910,7 +125870,7 @@ SplineSet
  625 700 l 5
  1372 700 l 5xec
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv Ga.dv
 EndChar
@@ -125969,7 +125929,7 @@ SplineSet
  901 245 949 208 1014 208 c 4
  1081 208 1163 251 1211 307 c 5
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv Gha.dv
 EndChar
@@ -126025,7 +125985,7 @@ SplineSet
  625 700 l 5
  1481 700 l 5
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv Ca.dv
 EndChar
@@ -126089,7 +126049,7 @@ SplineSet
  835 141 950 65 1058 65 c 4
  1177 65 1275 126 1330 231 c 5
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv Cha.dv
 EndChar
@@ -126145,7 +126105,7 @@ SplineSet
  625 700 l 5
  1522 700 l 5
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv Ja.dv
 EndChar
@@ -126196,7 +126156,7 @@ SplineSet
  625 700 l 5
  1325 700 l 5
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv Tta.dv
 EndChar
@@ -126249,7 +126209,7 @@ SplineSet
  806 168 892 111 1009 111 c 4
  1122 111 1209 171 1209 265 c 4
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv Ttha.dv
 EndChar
@@ -126306,7 +126266,7 @@ SplineSet
  625 700 l 5
  1323 700 l 5xdf
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv Dda.dv
 EndChar
@@ -126364,7 +126324,7 @@ SplineSet
  1027 152 1063 122 1108 111 c 5
  1150 121 1186 154 1186 188 c 4xfd
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv Ddha.dv
 EndChar
@@ -126418,7 +126378,7 @@ SplineSet
  840 324 895 290 942 290 c 4
  997 290 1035 333 1035 389 c 148
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv Nna.dv
 EndChar
@@ -126469,7 +126429,7 @@ SplineSet
  625 700 l 5
  1356 700 l 5
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv Ta.dv
 EndChar
@@ -126528,7 +126488,7 @@ SplineSet
  839 544 897 494 971 472 c 5
  983 489 989 512 989 542 c 4
 EndSplineSet
-Validated: 524321
+Validated: 33
 LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv Tha.dv
 EndChar
@@ -126584,7 +126544,7 @@ SplineSet
  625 700 l 5
  1313 700 l 5xbd
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv Da.dv
 EndChar
@@ -126649,7 +126609,7 @@ SplineSet
  829 581 854 576 887 576 c 4
  932 576 954 592 954 624 c 4
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv Dha.dv
 EndChar
@@ -126699,7 +126659,7 @@ SplineSet
  625 700 l 5
  1337 700 l 5xdc
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv Na.dv
 EndChar
@@ -126757,7 +126717,7 @@ SplineSet
  625 700 l 5
  1368 700 l 5x9c
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv Nnna.dv
 EndChar
@@ -126809,7 +126769,7 @@ SplineSet
  840 328 880 288 947 288 c 4
  1011 288 1076 325 1107 381 c 5
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv Pa.dv
 EndChar
@@ -126870,7 +126830,7 @@ SplineSet
  833 322 870 288 945 288 c 4
  999 288 1062 323 1099 373 c 5
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv Pha.dv
 EndChar
@@ -126929,7 +126889,7 @@ SplineSet
  803 264 872 220 957 220 c 4
  979 220 1002 224 1025 233 c 5
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv Ba.dv
 EndChar
@@ -126990,7 +126950,7 @@ SplineSet
  813 655 791 635 791 594 c 4
  791 540 848 499 925 490 c 5
 EndSplineSet
-Validated: 524321
+Validated: 33
 LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv Bha.dv
 EndChar
@@ -127045,7 +127005,7 @@ SplineSet
  894 629 l 5
  894 386 l 5
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv Ma.dv
 EndChar
@@ -127100,7 +127060,7 @@ SplineSet
  823 292 907 252 979 252 c 4xdc
  1039 252 1104 287 1136 338 c 5
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv Ya.dv
 EndChar
@@ -127145,7 +127105,7 @@ SplineSet
  526.374023438 293.317382812 599.166015625 332.38671875 599.166015625 423.443359375 c 0
  599.166015625 560.852539062 531.389648438 560.853515625 405.000976562 560.853515625 c 1
 EndSplineSet
-Validated: 524325
+Validated: 37
 Ligature2: "'rkrf' Rakar Forms in Devanagari2 lookup 5 subtable" Zha.dv Halant.dv Ra.dv
 Ligature2: "'vatu' Vattu Variants in Devanagari lookup 12 subtable" Zha.dv Vattu.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv Ra.dv
@@ -127205,7 +127165,7 @@ SplineSet
  625 700 l 5
  1508 700 l 5
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv La.dv
 EndChar
@@ -127259,7 +127219,7 @@ SplineSet
  811 278 876 226 948 226 c 4
  1009 226 1066 252 1119 303 c 5
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv Va.dv
 EndChar
@@ -127320,7 +127280,7 @@ SplineSet
  625 700 l 5
  1534 700 l 5xde
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv Sha.dv
 EndChar
@@ -127375,7 +127335,7 @@ SplineSet
  840 333 904 288 990 288 c 4
  1045 288 1093 308 1134 347 c 5
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv Ssa.dv
 EndChar
@@ -127437,7 +127397,7 @@ SplineSet
  1060 350 1090 345 1120 345 c 4
  1189 345 1268 373 1302 416 c 5
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv Sa.dv
 EndChar
@@ -127497,7 +127457,7 @@ SplineSet
  625 700 l 5
  1269 700 l 5xfe
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv Ha.dv
 EndChar
@@ -127561,7 +127521,7 @@ SplineSet
  1174.37402344 293.317382812 1247.16601562 332.38671875 1247.16601562 423.443359375 c 4
  1247.16601562 560.852539062 1179.38964844 560.853515625 1053.00097656 560.853515625 c 5
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaKa.dv Zha.dv
 EndChar
@@ -127612,7 +127572,7 @@ SplineSet
  872.374023438 293.317382812 945.166015625 332.38671875 945.166015625 423.443359375 c 4
  945.166015625 560.852539062 877.389648438 560.853515625 751.000976562 560.853515625 c 5
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaGa.dv Zha.dv
 EndChar
@@ -127663,7 +127623,7 @@ SplineSet
  911.374023438 293.317382812 984.166015625 332.38671875 984.166015625 423.443359375 c 4
  984.166015625 560.852539062 916.389648438 560.853515625 790.000976562 560.853515625 c 5
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaPa.dv Zha.dv
 EndChar
@@ -127722,7 +127682,7 @@ SplineSet
  887.374023438 293.317382812 960.166015625 332.38671875 960.166015625 423.443359375 c 4
  960.166015625 560.852539062 892.389648438 560.853515625 766.000976562 560.853515625 c 5
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaBa.dv Zha.dv
 EndChar
@@ -127776,7 +127736,7 @@ SplineSet
  916.374023438 293.317382812 989.166015625 332.38671875 989.166015625 423.443359375 c 4
  989.166015625 560.852539062 921.389648438 560.853515625 795.000976562 560.853515625 c 5
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaMa.dv Zha.dv
 EndChar
@@ -127830,7 +127790,7 @@ SplineSet
  901.374023438 293.317382812 974.166015625 332.38671875 974.166015625 423.443359375 c 4
  974.166015625 560.852539062 906.389648438 560.853515625 780.000976562 560.853515625 c 5
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaVa.dv Zha.dv
 EndChar
@@ -127892,7 +127852,7 @@ SplineSet
  473.164427829 156.412986546 612.771779555 43 769 43 c 0
  902.136558063 43 991.065942291 108.010549756 1002.70036582 212.207035129 c 1
 EndSplineSet
-Validated: 524329
+Validated: 41
 LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaNnna.dv DddaRra.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaNnna.dv ardhaDdda.dv Rra.dv
@@ -132864,7 +132824,7 @@ SplineSet
  791 133 826 111 895 111 c 4
  961 111 1044 146 1099 195 c 5
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv KaKa.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaKa.dv Ka.dv
@@ -132951,7 +132911,7 @@ SplineSet
  816 282 880 221 947 221 c 4xeff0
  1009 221 1077 255 1106 308 c 5
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv KaKha.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaKa.dv Kha.dv
@@ -133011,7 +132971,7 @@ SplineSet
  625 700 l 5
  1732 700 l 5xd680
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv GaGa.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaGa.dv Ga.dv
@@ -133079,7 +133039,7 @@ SplineSet
  1241 245 1289 208 1354 208 c 4
  1421 208 1503 251 1551 307 c 5
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv GaGha.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaGa.dv Gha.dv
@@ -133166,7 +133126,7 @@ SplineSet
  806 -132 834 -154 890 -154 c 4
  942 -154 988 -133 1027 -90 c 5
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv NgaKa.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaNga.dv Ka.dv
@@ -133245,7 +133205,7 @@ SplineSet
  625 700 l 151
  1445 700 l 151
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv NgaGa.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaNga.dv Ga.dv
@@ -133313,7 +133273,7 @@ SplineSet
  625 700 l 5
  1488 700 l 5
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv CaCa.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaCa.dv Ca.dv
@@ -133389,7 +133349,7 @@ SplineSet
  1326 127 1435 65 1541 65 c 4
  1660 65 1759 126 1814 231 c 5
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv CaCha.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaCa.dv Cha.dv
@@ -133477,7 +133437,7 @@ SplineSet
  1655 290 1690 281 1718 281 c 4
  1774 281 1839 310 1864 355 c 5
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv JaJha.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaJa.dv Jha.dv
@@ -133550,7 +133510,7 @@ SplineSet
  625 700 l 1
  1542 700 l 1
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv NyaCa.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaNya.dv Ca.dv
@@ -133622,7 +133582,7 @@ SplineSet
  625 700 l 5
  1542 700 l 5xfec0
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv NyaJa.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaNya.dv Ja.dv
@@ -133683,7 +133643,7 @@ SplineSet
  625 700 l 5
  1489 700 l 5xd7
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv JaNya.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaJa.dv Nya.dv
@@ -133747,7 +133707,7 @@ SplineSet
  625 700 l 5
  1408 700 l 5xfd
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv TtaTta.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaTta.dv Tta.dv
@@ -133814,7 +133774,7 @@ SplineSet
  837 -189 941 -250 1066 -250 c 4
  1202 -250 1284 -204 1284 -120 c 4
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv TtaTtha.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaTta.dv Ttha.dv
@@ -133892,7 +133852,7 @@ SplineSet
  625 700 l 5
  1355 700 l 5xdfc0
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv DdaDda.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaDda.dv Dda.dv
@@ -133972,7 +133932,7 @@ SplineSet
  1080 -245 1097 -267 1132 -284 c 5
  1175 -273 1206 -240 1206 -208 c 4
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv DdaDdha.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaDda.dv Ddha.dv
@@ -134039,7 +133999,7 @@ SplineSet
  867 318 899 299 942 299 c 4
  992 299 1017 338 1017 415 c 148
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv NnaNna.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaNna.dv Nna.dv
@@ -134103,7 +134063,7 @@ SplineSet
  869 312 904 287 952 287 c 4
  995 287 1017 326 1017 403 c 148
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv NnaTta.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaNna.dv Tta.dv
@@ -134173,7 +134133,7 @@ SplineSet
  869 312 904 287 952 287 c 4
  995 287 1017 326 1017 403 c 148
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv NnaDda.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaNna.dv Dda.dv
@@ -134227,7 +134187,7 @@ SplineSet
  625 700 l 5
  1462 700 l 5
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv TaTa.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaTa.dv Ta.dv
@@ -134298,7 +134258,7 @@ SplineSet
  1101 543 1158 494 1228 472 c 5
  1243 489 1251 512 1251 542 c 4
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv TaTha.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaTa.dv Tha.dv
@@ -134364,7 +134324,7 @@ SplineSet
  625 700 l 5
  1240 700 l 5xde80
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv DaDa.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaDa.dv Da.dv
@@ -134439,7 +134399,7 @@ SplineSet
  801 299 819 270 855 247 c 5
  904 253 940 288 940 333 c 4
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv DaDha.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaDa.dv Dha.dv
@@ -134500,7 +134460,7 @@ SplineSet
  625 700 l 151
  1419 700 l 5xdc
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv NaNa.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaNa.dv Na.dv
@@ -134560,7 +134520,7 @@ SplineSet
  1216 91 1150 233 1150 326 c 4
  1150 396 1212 466 1283 466 c 148
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv NaTa.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaNa.dv Ta.dv
@@ -134623,7 +134583,7 @@ SplineSet
  625 700 l 5
  1657 700 l 5xd7a0
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv NaDa.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaNa.dv Da.dv
@@ -134699,7 +134659,7 @@ SplineSet
  1257 271 l 5
  1070.70898438 159.178710938 l 5
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv NnnaNnna.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaNnna.dv Nnna.dv
@@ -134771,7 +134731,7 @@ SplineSet
  1687 118 1595 43 1452 43 c 4
  1295.77148438 43 1156.1640625 156.413085938 1153.05273438 303 c 5
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv NnnaDdda.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaNnna.dv Ddda.dv
@@ -134836,7 +134796,7 @@ SplineSet
  625 700 l 5
  1398 700 l 5
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv NnnaRra.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaNnna.dv Rra.dv
@@ -134898,7 +134858,7 @@ SplineSet
  840 321 869 289 954 289 c 4
  1006 289 1021 294 1089 354 c 5
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv PaPa.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaPa.dv Pa.dv
@@ -134969,7 +134929,7 @@ SplineSet
  840 321 869 289 954 289 c 4
  1002 289 1051 311 1100 355 c 5
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv PaPha.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaPa.dv Pha.dv
@@ -135045,7 +135005,7 @@ SplineSet
  803 271 882 220 958 220 c 4
  979 220 1000 224 1019 231 c 5
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv BaBa.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaBa.dv Ba.dv
@@ -135127,7 +135087,7 @@ SplineSet
  625 700 l 5
  840 700 l 5xe5e0
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv BaBha.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaBa.dv Bha.dv
@@ -135192,7 +135152,7 @@ SplineSet
  890 629 l 5
  890 386 l 5
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv MaMa.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaMa.dv Ma.dv
@@ -135257,7 +135217,7 @@ SplineSet
  919 629 l 5
  919 386 l 5
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv MaPa.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaMa.dv Pa.dv
@@ -135328,7 +135288,7 @@ SplineSet
  1119 260 1185 220 1268 220 c 4
  1289 220 1312 224 1335 233 c 5
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv MaBa.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaMa.dv Ba.dv
@@ -135390,7 +135350,7 @@ SplineSet
  868 515 910 465 964 442 c 5
  1007 463 1040 518 1040 570 c 4
 EndSplineSet
-Validated: 524321
+Validated: 33
 LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv ShaRa.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaSha.dv Ra.dv
@@ -135465,7 +135425,7 @@ SplineSet
  835 547 868 504 914 480 c 5
  958 506 1007 563 1007 594 c 4
 EndSplineSet
-Validated: 524321
+Validated: 33
 LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv KaSsa.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaKa.dv Ssa.dv
@@ -135547,7 +135507,7 @@ SplineSet
  1284 282 1338 234 1405 234 c 4
  1468 234 1536 269 1569 322 c 5
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv SaKa.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaSa.dv Ka.dv
@@ -135634,7 +135594,7 @@ SplineSet
  1249 436 1275 415 1308 373 c 5
  1345 382 1371 433 1371 491 c 4
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv SaKha.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaSa.dv Kha.dv
@@ -135704,7 +135664,7 @@ SplineSet
  1161 345 1201 357 1234 381 c 5
  1255 438 1308 466 1393 466 c 148
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv SaTa.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaSa.dv Ta.dv
@@ -135787,7 +135747,7 @@ SplineSet
  1290 546 1348 494 1422 472 c 5
  1434 489 1440 512 1440 542 c 4
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv SaTha.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaSa.dv Tha.dv
@@ -135858,7 +135818,7 @@ SplineSet
  1059 351 1087 347 1116 347 c 4xaf
  1176 347 1238 374 1258 414 c 5
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv SaPa.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaSa.dv Pa.dv
@@ -135938,7 +135898,7 @@ SplineSet
  1060 350 1090 345 1119 345 c 4xafc0
  1168 345 1214 358 1259 384 c 5
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv SaPha.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaSa.dv Pha.dv
@@ -136011,7 +135971,7 @@ SplineSet
  1304 279 1369 226 1440 226 c 4
  1501 226 1558 252 1611 303 c 5
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv SaVa.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaSa.dv Va.dv
@@ -136076,7 +136036,7 @@ SplineSet
  816 284 875 236 947 236 c 4
  1008 236 1075 271 1104 324 c 5xcf
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv KaRa.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaKa.dv Ra.dv
@@ -136132,7 +136092,7 @@ SplineSet
  625 700 l 5
  1366 700 l 5xec
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv GaRa.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaGa.dv Ra.dv
@@ -136193,7 +136153,7 @@ SplineSet
  903 243 959 205 1042 205 c 4
  1102 205 1179 245 1226 297 c 5
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv GhaRa.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaGha.dv Ra.dv
@@ -136261,7 +136221,7 @@ SplineSet
  1313 292 1397 252 1469 252 c 4
  1529 252 1594 287 1626 338 c 5
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv CaYa.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaCa.dv Ya.dv
@@ -136314,7 +136274,7 @@ SplineSet
  625 700 l 5
  1358 700 l 5
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv TaRa.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaTa.dv Ra.dv
@@ -136376,7 +136336,7 @@ SplineSet
  1157 297 1236 252 1313 252 c 4
  1374 252 1442 287 1477 338 c 5
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv TaYa.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaTa.dv Ya.dv
@@ -136435,7 +136395,7 @@ SplineSet
  625 700 l 5
  1313 700 l 5xcd
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv DaRa.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaDa.dv Ra.dv
@@ -136499,7 +136459,7 @@ SplineSet
  875 145 923 111 973 111 c 4
  1051 111 1156 170 1216 246 c 5
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv DaYa.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaDa.dv Ya.dv
@@ -136568,7 +136528,7 @@ SplineSet
  827 567 853 555 888 555 c 4xd380
  927 555 957 579 957 619 c 4
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv DhaRa.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaDha.dv Ra.dv
@@ -136646,7 +136606,7 @@ SplineSet
  811 582 840 569 877 569 c 4
  916 569 935 586 935 620 c 4
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv DhaYa.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaDha.dv Ya.dv
@@ -136701,7 +136661,7 @@ SplineSet
  840 324 878 288 955 288 c 4
  1016 288 1083 325 1109 381 c 5
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv PaRa.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaPa.dv Ra.dv
@@ -136763,7 +136723,7 @@ SplineSet
  808 285 889 234 962 234 c 4
  984 234 1004 238 1023 246 c 5
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv BaRa.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaBa.dv Ra.dv
@@ -136828,7 +136788,7 @@ SplineSet
  822 682 790 660 790 631 c 4
  790 580 848 542 928 530 c 5
 EndSplineSet
-Validated: 524321
+Validated: 33
 LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv BhaRa.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaBha.dv Ra.dv
@@ -137825,7 +137785,7 @@ SplineSet
  1446 284 1505 236 1577 236 c 4
  1638 236 1705 271 1734 324 c 5
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 3 0 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv KaKaRa.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaKa.dv KaRa.dv
@@ -137890,7 +137850,7 @@ SplineSet
  625 700 l 5
  1725 700 l 5xed
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 3 0 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv GaGaRa.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaGa.dv GaRa.dv
@@ -137960,7 +137920,7 @@ SplineSet
  1255 243 1311 205 1394 205 c 4
  1454 205 1531 245 1578 297 c 5xcdc0
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 3 0 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv GaGhaRa.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaGa.dv GhaRa.dv
@@ -138044,7 +138004,7 @@ SplineSet
  1634 292 1703 252 1778 252 c 4
  1839 252 1906 287 1941 338 c 5
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 3 0 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv CaCaYa.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaCa.dv CaYa.dv
@@ -138104,7 +138064,7 @@ SplineSet
  625 700 l 5
  1678 700 l 5xbc
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 3 0 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv TaTaRa.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaTa.dv TaRa.dv
@@ -138169,7 +138129,7 @@ SplineSet
  1189 291 1259 252 1333 252 c 4
  1394 252 1461 287 1496 338 c 5
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 3 0 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv TaTaYa.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaTa.dv TaYa.dv
@@ -138234,7 +138194,7 @@ SplineSet
  1211 286 1276 252 1336 252 c 4
  1397 252 1464 287 1499 338 c 5
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 3 0 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv TaRaYa.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaTa.dv ardhaRra.dv Ya.dv
@@ -138303,7 +138263,7 @@ SplineSet
  625 700 l 5
  1240 700 l 5xd680
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 3 0 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv DaDaRa.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaDa.dv DaRa.dv
@@ -138385,7 +138345,7 @@ SplineSet
  1321 203 1375 179 1427 179 c 4
  1501 179 1560 208 1605 265 c 5
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 3 0 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv DaDaYa.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaDa.dv DaYa.dv
@@ -138463,7 +138423,7 @@ SplineSet
  791 299 809 270 845 247 c 5
  894 253 930 288 930 333 c 4xc9d8
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 3 0 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv DaDhaRa.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaDa.dv DhaRa.dv
@@ -138557,7 +138517,7 @@ SplineSet
  801 299 819 270 855 247 c 5
  904 253 940 288 940 333 c 4
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 3 0 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv DaDhaYa.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaDa.dv DhaYa.dv
@@ -138622,7 +138582,7 @@ SplineSet
  1082 629 l 5
  840 629 l 5
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 3 0 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv PaPaRa.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaPa.dv PaRa.dv
@@ -138701,7 +138661,7 @@ SplineSet
  1103 391 1104 402 1108 413 c 5
  1064 436 1015 448 966 448 c 4
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 3 0 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv BaBaRa.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaBa.dv BaRa.dv
@@ -138787,7 +138747,7 @@ SplineSet
  625 700 l 5
  830 700 l 5xebc0
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 3 0 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 16 subtable" ardhaZha.dv BaBhaRa.dv
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaBa.dv BhaRa.dv
@@ -138984,8 +138944,8 @@ Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaT
 Ligature2: "'pres' Pre Base Substitutions lookup 15 subtable" ardhaZha.dv ardhaTa.dv ardhaTa.dv ardhaRra.dv Ya.dv
 EndChar
 
-StartChar: vowelHrasvaAi.dv
-Encoding: 65557 -1 2746
+StartChar: uniA8FE
+Encoding: 65557 43262 2746
 Width: 593
 Flags: W
 HStem: 629 71<0 78 156 345 505 600> 697 3<345 505> 766 59<88.6211 269.857> 773 61<145.12 343.522> 865 59<238.711 443.036>
@@ -139051,8 +139011,8 @@ SplineSet
  600 700 l 1x8f50
 EndSplineSet
 Validated: 5
-LCarets2: 1 0
 Ligature2: "'nukt' Nukta Forms lookup 1 subtable" vowelAi.dv Chandra.dv
+LCarets2: 1 0
 EndChar
 
 StartChar: RraKa.dv
@@ -145374,20 +145334,22 @@ EndChar
 StartChar: NameMe.65031
 Encoding: 65031 -1 2852
 Width: 857
-Flags: HW
+Flags: W
+HStem: -61 75<360.692 508.459> 173.121 369.879<133.488 253.196>
+VStem: 238 81<54.9032 174.249> 541 74.3301<48.7601 175.454> 710 88<273.884 414.594>
 LayerCount: 2
 Fore
 SplineSet
 146.043945312 365.587890625 m 4
  135.381835938 295.392578125 158.971679688 244.270507812 207.416015625 236.912109375 c 4
  267.724609375 227.750976562 329.822265625 276.984375 392.87109375 385.749023438 c 5
- 368.85546875 420.752929688 296.608398438 471.173828125 262.004882812 476.430664062 c 4x33c0
+ 368.85546875 420.752929688 296.608398438 471.173828125 262.004882812 476.430664062 c 4
  197.7421875 486.19140625 158.809570312 449.624023438 146.043945312 365.587890625 c 4
 446.748046875 420.548828125 m 1029
 710 365 m 4
  710 436 679 483 630 483 c 4
  569 483 515 425 469 308 c 5
- 498 277 577 238 612 238 c 4x33c0
+ 498 277 577 238 612 238 c 4
  677 238 710 280 710 365 c 4
 798 322 m 4
  798 209.958984375 715.196289062 160.153320312 615.330078125 177.58203125 c 5
@@ -145405,6 +145367,7 @@ SplineSet
  541 173.083984375 527.3203125 214.33203125 433.959960938 255.50390625 c 5
  406.330078125 210.727539062 369.409179688 191.0703125 328.8984375 178.829101562 c 5
 EndSplineSet
+Validated: 524321
 EndChar
 EndChars
 EndSplineFont
